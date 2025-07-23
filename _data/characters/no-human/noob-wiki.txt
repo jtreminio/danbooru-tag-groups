@@ -1,0 +1,340 @@
+# https://huggingface.co/datasets/Laxhar/noob-wiki
+marx \(kirby\), kirby \(series\), no humans, purple skin, fangs, purple eyes, short hair, purple hair, jester cap, brown footwear, pom pom \(clothes\), polka dot headwear, two-tone headwear, red headwear, blue headwear, red bowtie, wings, yellow wings, wings, yellow wings, claws, heart, blue hat, red hat
+taranza, kirby \(series\), no humans, 1boy, dark-skinned male, dark skin, horns, yellow horns, extra eyes, yellow eyes, solid oval eyes, v-shaped eyebrows, white hair, short hair, blunt bangs, ahoge, white gloves, green cape, green vest, disembodied hand, blunt ends, rayman limbs, red ascot
+dugtrio, pokemon, no humans, 1girl, brown eyes, brown hair, short hair, long hair, swept bangs, bob cut, medium breasts, nipples, navel, sweat, toes, pokemon \(creature\), starter pokemon trio, steaming body, soles
+baxcalibur, pokemon, no humans, blue skin, skin fangs, long tail, yellow eyes, black eyes, hair between eyes, black hair, low-tied long hair, very long hair, ponytail, high ponytail, sidelocks, large breasts, collarbone, pokemon \(creature\), claws, dragon, spines, fluffy, moth, seagull, wet, scales, yellow sclera
+tetsujin 28, tetsujin 28-gou, no humans, yellow eyes, mecha
+scp-173, scp foundation, no humans, 1girl
+eater \(digimon\), digimon, no humans, monster, red eyes, armor, wings, eldritch abomination, tentacles, digimon \(creature\)
+dougram, taiyou no kiba dougram, no humans, shoulder cannon, gun, mecha, arm cannon, radio antenna
+doublade, pokemon, no humans, purple eyes, pink eyes, purple hair, sword, pokemon \(creature\)
+alolan muk, pokemon, no humans, blue eyes, pokemon \(creature\)
+argentea \(darling in the franxx\), darling in the franxx, no humans, 1girl, white skin, blue eyes, pink hair, twintails, claw \(weapon\), claws, android, robot joints, mecha
+gundam gp-01 zephyranthes, gundam, no humans, holding gun, green eyes, black hair, short ponytail, ponytail, sidelocks, low ponytail, mobile suit, mobile suit, v-fin, shield, mecha musume, mecha, machinery
+diablos, monster hunter \(series\), no humans, 1girl, monster, horns, tail, red eyes, blonde hair, long hair, dragon wings, claws, dragon girl, spikes
+magolor soul, kirby \(series\), no humans, demon horns, demon wings, red eyes, solid oval eyes, extra eyes, wings, rayman limbs, disembodied hand, claws, master crown, crown
+layzner, aoki ryuusei spt layzner, no humans, holding gun, yellow eyes, mecha, radio antenna
+gundam dynames, gundam, no humans, holding gun, green eyes, blue eyes, long hair, mobile suit, mobile suit, v-fin, mecha
+parasol kirby, kirby \(series\), no humans, pink skin, blue eyes, red footwear, shoes, parasol, red umbrella, star \(symbol\)
+marshadow \(gloom\), pokemon, no humans, orange eyes, brown eyes, pokemon \(creature\)
+zaku i, gundam, no humans, red eyes, mobile suit, zeon, one-eyed, mecha, zeon
+lazengann, tengen toppa gurren lagann, no humans, single horn, yellow eyes, mecha, super robot
+getter dragon, getter robo, no humans, yellow eyes, orange eyes, super robot, mecha
+kushala daora, monster hunter \(series\), no humans, 1girl, monster, monster girl, dragon horns, dragon tail, tail, sharp teeth, blue eyes, dragon wings, wings, dragon girl, scales, claws, dragon
+geara doga, gundam, no humans, red eyes, glowing eye, mobile suit, mobile suit, shield, one-eyed, zeon, mecha
+amygdala, bloodborne, no humans, monster, extra eyes, eldritch abomination
+darilbalde, gundam, no humans, single horn, green eyes, mobile suit, mobile suit, mecha
+mechazawa shin'ichi, sakigake!! cromartie koukou, no humans, loli, brown eyes, yellow eyes, red eyes, short hair, black hair, long hair, small breasts, school uniform, hat, backpack, extra, non-humanoid robot, robot
+ride armor, kikou souseiki mospeada, no humans, armor, power armor, body armor, armor, helmet, power armor, body armor, exoskeleton, android, mecha, exoskeleton, arm cannon
+vf-1 strike, macross, no humans, energy cannon, u.n. spacy, u.n. spacy, mecha, missile pod, roundel, jolly roger, missile
+gundam epyon, gundam, no humans, green eyes, glowing eyes, mobile suit, mobile suit, v-fin, mechanical wings, energy sword, mechanical wings, mecha, beam saber
+gerbera tetra, gundam, no humans, green eyes, glowing eye, mobile suit, armor, mobile suit, one-eyed, zeon, mecha musume, mecha
+alatreon, monster hunter \(series\), no humans, 1girl, monster, monster girl, dragon horns, horns, dragon tail, sharp teeth, tail, red eyes, black hair, long hair, navel, dragon wings, dragon wings, dragon girl, scales, claws, dragon, spikes
+tapu bulu, pokemon, no humans, horns, green eyes, hooves, nose ring, pokemon \(creature\)
+chi-yu \(pokemon\), pokemon, no humans, black eyes, pokemon \(creature\), fish
+raging bolt, pokemon, no humans, purple eyes, pokemon \(creature\), long neck, claws
+dygenguar, super robot wars, no humans, horns, yellow eyes, red eyes, armor, super robot
+vifam, ginga hyouryuu vifam, no humans, mecha, radio antenna
+doopliss, mario \(series\), no humans, 1boy, red eyes, party hat, red footwear, bow, sheet ghost, ghost, black sclera, sheet ghost
+toothless, how to train your dragon, no humans, black eyes, dragon, claws, western dragon
+gore magala, monster hunter \(series\), no humans, 1girl, monster, horns, sharp teeth, dragon horns, black hair, short hair, wings, claws, dragon girl, scales
+mega sceptile, pokemon, no humans, yellow eyes, pokemon \(creature\), mega pokemon, claws, yellow sclera
+the o \(mobile suit\), gundam, no humans, mobile suit, beam rifle, energy sword, mecha
+tr-6 woundwort, gundam, no humans, green eyes, mobile suit, mobile suit, v-fin, mecha musume, mecha
+deathclaw, fallout \(series\), no humans, monster, tail, horns, sharp teeth, yellow eyes, claws, alternate form, scales
+rodimus, transformers, no humans, 1boy, blue eyes, autobot, mecha
+mega scizor, pokemon, no humans, horns, blue eyes, insect wings, insect wings, pokemon \(creature\), mega pokemon, claws
+gigantamax meowth, pokemon, no humans, fangs, yellow eyes, hair between eyes, gigantamax, pokemon \(creature\)
+regidrago, pokemon, no humans, blue eyes, pokemon \(creature\), skull
+malzeno \(monster hunter\), monster hunter \(series\), no humans, 1girl, monster girl, dragon horns, dragon tail, red eyes, long hair, two-tone hair, dragon wings, dragon wings, claws, dragon girl, scales
+missingno., pokemon, no humans, pokemon \(creature\)
+giygas, mother \(game\), no humans
+wing gundam zero, gundam, no humans, holding gun, green eyes, mobile suit, mobile suit, v-fin, mechanical wings, mechanical wings, mecha
+mega diancie, pokemon, no humans, grey skin, animal ears, red eyes, pink eyes, pink hair, pokemon \(creature\), mega pokemon, crystal
+mega audino, pokemon, no humans, red eyes, mega pokemon, pokemon \(creature\)
+glavenus, monster hunter \(series\), no humans, monster, horns, dragon tail, sharp teeth, dragon horns, tail, blue eyes, hair between eyes, red hair, blue hair, gradient hair, medium breasts, claws, scales, dragon girl, digitigrade, dinosaur, spikes
+d-1, kikou senki dragonar, no humans, yellow eyes, mecha
+leviathan \(final fantasy\), final fantasy, no humans, 1girl, monster, black hair, green hair, long hair, scales
+shuma gorath, marvel, no humans, monster, green skin, red eyes, large breasts, ass, sweat, impossible leotard, tentacles, superhero costume, one-eyed, superhero costume
+deoxys \(speed\), pokemon, no humans, black eyes, pokemon \(creature\)
+knight gundam, gundam, no humans, yellow eyes, v-fin, yellow sclera, mecha
+star saber \(transformers\), transformers, no humans, blue eyes, glowing eyes, autobot, mecha, insignia
+unicorn gundam phenex, gundam, no humans, blue eyes, yellow eyes, green eyes, long hair, blonde hair, mobile suit, mobile suit, v-fin, mechanical wings, mecha musume, mecha, nt-d
+gigantamax pikachu, pokemon, no humans, black eyes, gigantamax, pokemon \(creature\)
+alcremie \(love sweet\), pokemon, no humans, red eyes, pink eyes, pokemon \(creature\), heart
+gundam pharact, gundam, no humans, holding gun, red eyes, glowing eyes, mobile suit, mobile suit, v-fin, mecha, funnels \(gundam\)
+gundam astray red frame, gundam, no humans, green eyes, glowing eyes, v-fin, katana, mecha
+zeorymer, hades project zeorymer, no humans, single horn, yellow eyes, glowing eye, one-eyed, super robot
+bazelgeuse, monster hunter \(series\), no humans, 1girl, monster, monster girl, sharp teeth, dragon tail, tail, yellow eyes, brown eyes, ahoge, wings, scales, wyvern, dragon girl
+earthree gundam, gundam, no humans, green eyes, aqua eyes, glowing eyes, mobile suit, v-fin, mecha
+devil gundam, gundam, no humans, green eyes, v-fin, mecha musume, mecha
+odin \(final fantasy\), final fantasy, no humans, blue eyes, full armor, armor, horse
+blue destiny 01, gundam, no humans, glowing eyes, red eyes, glowing eye, mobile suit, mobile suit, mecha
+derpy hooves, my little pony, no humans, 1girl, yellow eyes, blonde hair, long hair, wings, pegasus, cross-eyed, pony \(animal\)
+metalgreymon \(virus\), digimon, no humans, blue skin, horns, sharp teeth, tail, yellow eyes, red hair, helmet, torn wings, torn wings, digimon \(creature\), claws, single mechanical arm, cyborg, dinosaur
+monster in kamata, godzilla \(series\), no humans, 1girl, sharp teeth, fang
+passimian, pokemon, no humans, orange eyes, pokemon \(creature\), yellow sclera
+gridknight \(ssss.gridman\), gridman universe, no humans, glowing eyes, shoulder cannon, visor, super robot, mecha
+gundam virtue, gundam, no humans, holding gun, blue eyes, v-fin, mecha
+ice kirby, kirby \(series\), no humans, pink skin, blue eyes, crystal, ice, crown, gem, star \(symbol\)
+goose \(untitled goose game\), untitled goose game, no humans, short hair, long sleeves, virtual youtuber, goose, duck, animal
+cheemsburger \(doge\), original, no humans, 1girl, animal ear fluff, black hair, long hair, large breasts, dog, animal
+cybuster, super robot wars, no humans, green eyes, mecha
+temjin, virtual on, no humans, mecha musume, mecha
+zeta plus, gundam, no humans, blue eyes, green eyes, mobile suit, mobile suit, v-fin, mecha musume, mecha
+tallgeese, gundam, no humans, holding gun, blue eyes, mobile suit, mobile suit, shield, mecha
+brachydios, monster hunter \(series\), no humans, monster, horns, sharp teeth, red eyes, blue hair, medium breasts, claws
+magnamalo, monster hunter \(series\), no humans, monster, sharp teeth, horns, fangs, tail, blue eyes, long hair, claws, scales, arm blade, purple scales
+nightingale \(gundam\), char's counterattack, no humans, holding gun, green eyes, glowing eye, mobile suit, mobile suit, beam rifle, one-eyed, mecha musume, mecha, thrusters
+alphonse \(av-98 ingram\), kidou keisatsu patlabor, no humans, brown hair, short hair, police, policewoman, mecha, radio antenna, police
+megazord, power rangers, no humans, horns, yellow eyes, armor, tokusatsu, tokusatsu, super robot
+valstrax, monster hunter \(series\), no humans, monster, dragon tail, blue eyes, wings, claws, dragon, scales
+jgsdf type 07 tank natchin, original, no humans, blue eyes, mecha
+kleavor, pokemon, no humans, black eyes, pokemon \(creature\), claws, axe, spikes
+snaree \(taratabong\), taratabong, no humans, black eyes, penis
+aile strike gundam, gundam, no humans, holding gun, yellow eyes, glowing eyes, mobile suit, mobile suit, v-fin, mechanical wings, beam rifle, mecha
+marasai, gundam, no humans, holding gun, mobile suit, mobile suit, one-eyed, mecha
+r-9a arrowhead, r-type, no humans, 1girl, blue eyes, hair between eyes, short hair, streaked hair, armor, mecha musume
+deathwing, warcraft, no humans, 1girl, monster girl, monster, horns, dragon tail, tail, sharp teeth, yellow eyes, orange eyes, very long hair, long hair, purple hair, wings, claws, dragon girl, scales, western dragon, backward facing horns
+eva 13, neon genesis evangelion, no humans, single horn, extra eyes, glowing eyes, red eyes, armor, armor, spear, evangelion \(mecha\), mecha, lance of longinus \(evangelion\), lance, bident
+clawitzer, pokemon, no humans, yellow eyes, pokemon \(creature\)
+vaal hazak, monster hunter \(series\), no humans, 1girl, monster girl, monster, grey skin, sharp teeth, horns, tail, red eyes, hair between eyes, long hair, red hair, large breasts, claws, dragon, dragon girl
+carnage \(marvel\), marvel, no humans, monster, sharp teeth, green eyes, long hair, red hair, large breasts, medium breasts, claws
+full armor gundam, gundam, no humans, holding gun, yellow eyes, mobile suit, mobile suit, v-fin, shield, mecha, missile pod
+steel haze, armored core, no humans, holding gun, glowing eyes, green eyes, reverse-jointed legs, mecha
+gawain \(code geass\), code geass, no humans, red eyes, hair between eyes, green hair, black hair
+eva 03, neon genesis evangelion, no humans, 1girl, angel \(evangelion\), glowing eyes, blue eyes, glowing eye, long hair, orange hair, medium breasts, test plugsuit, test plugsuit, pilot suit, two-tone bodysuit, pilot suit, multicolored bodysuit, red bodysuit, two-tone bodysuit, orange bodysuit, evangelion \(mecha\), mecha, interface headset, headgear
+arx-7 arbalest, full metal panic!, no humans, holding gun, green eyes, glowing eyes, blue eyes, glowing eye, mecha
+keldeo \(resolute\), pokemon, no humans, single horn, red hair, pokemon \(creature\)
+lunamon, digimon, no humans, pink eyes, digimon \(creature\), crescent
+mighty strike freedom gundam, gundam, no humans, yellow eyes, glowing eyes, mobile suit, mobile suit, v-fin, mechanical wings, katana, energy sword, mechanical wings, mecha, beam saber
+core gundam ii, gundam, no humans, aqua eyes, mobile suit, v-fin, mecha
+wo-chien, pokemon, no humans, orange eyes, white pupils, pokemon \(creature\)
+kaiten fx mk.0 \(blue archive\), blue archive, no humans, yellow eyes, glowing eyes, halo, long sleeves, super robot, package
+rayearth \(character\), magic knight rayearth, no humans, red eyes, long hair, red hair, armor, mecha
+lancelot z-01, code geass, no humans, green eyes, glowing eyes
+nemo \(mobile suit\), gundam, no humans, holding gun, mobile suit, mobile suit, mecha, radio antenna
+getter arc, getter robo, no humans, sharp teeth, yellow eyes, glowing eyes, super robot
+megatron \(idw\), the transformers \(idw\), no humans, 1boy, red eyes, glowing eyes, decepticon, autobot, mecha, arm cannon, insignia
+urshifu \(rapid\), pokemon, no humans, black eyes, pokemon \(creature\), grey fur, claws
+grafaiai, pokemon, no humans, green eyes, pokemon \(creature\)
+iron moth, pokemon, no humans, horns, orange eyes, detached wings, pokemon \(creature\)
+billbine, seisenshi dunbine, no humans, yellow eyes, red hair, insect wings, insect wings, mecha musume, mecha
+gundam mk v, gundam, no humans, holding gun, green eyes, mobile suit, mobile suit, v-fin, beam rifle, mecha
+gundam deathscythe, gundam, no humans, green eyes, mobile suit, mobile suit, v-fin, energy weapon, mecha
+cyclonus, transformers, no humans, 1boy, horns, red eyes, glowing eyes, decepticon, claws, mecha
+white kyurem, pokemon, no humans, sharp teeth, tongue, pokemon \(creature\), claws, yellow sclera, alternate form, dragon
+general grievous, star wars, no humans, long hair, yellow sclera, cyborg, alien, lightsaber
+dancouga, choujuu kishin dancouga, no humans, red eyes, glowing eyes, mechanical wings, mechanical wings, super robot
+getter-2, getter robo, no humans, yellow eyes, drill, super robot
+owlbear, baldur's gate, no humans, 1boy, mature male, brown eyes, thick eyebrows, brown hair, medium hair, side braids, multiple braids, facial tattoo, scar on face, green gloves, vambraces, elf, animal, bara, muscular male, beak, half updo, bird, dog, claws
+alcremie \(mint cream\), pokemon, no humans, blue eyes, pokemon \(creature\)
+messer \(mobile suit\), gundam, no humans, holding gun, glowing eye, mobile suit, mobile suit, one-eyed, mecha
+s gundam, gundam, no humans, v-fin, mecha musume, mecha
+l-gaim, juusenki l-gaim, no humans, mecha, arm cannon, cable
+impulse gundam, gundam, no humans, glowing eyes, green eyes, blue eyes, mobile suit, mobile suit, v-fin, energy sword, mecha
+galient, kikou-kai galient, no humans, yellow eyes, blue eyes, whip sword, mecha
+monzaemon, digimon, no humans, red eyes, wings, digimon \(creature\), teddy bear, heart
+phantom gundam, crossbone gundam ghost, no humans, yellow eyes, glowing eyes, mobile suit, mobile suit, v-fin, mecha musume, mecha, skull
+sandaconda, pokemon, no humans, fangs, green eyes, brown hair, earrings, pokemon \(creature\), snake
+gogg, gundam, no humans, glowing eye, long hair, mobile suit, one-eyed, mecha
+z'gok char custom, gundam, no humans, red eyes, mobile suit, claws, one-eyed, zeon, mecha
+gundam gp-01 full vernian zephyranthes, gundam, no humans, green eyes, mobile suit, mobile suit, v-fin, beam rifle, mecha
+infinite justice gundam, gundam, no humans, green eyes, glowing eyes, mobile suit, mobile suit, v-fin, mechanical wings, mechanical wings, mecha musume, mecha
+teostra, monster hunter \(series\), no humans, monster, horns, pointy ears, blue eyes, red hair, dragon
+reborns gundam, gundam, no humans, holding gun, green eyes, glowing eyes, mobile suit, mobile suit, v-fin, beam rifle, mecha
+megatron \(beast wars\), beast wars, no humans, sharp teeth, red eyes, v-shaped eyebrows, short hair, dinosaur, decepticon, mecha
+paildramon, digimon, no humans, blue skin, tail, red eyes, armor, armor, helmet, shoulder spikes, wings, blue wings, wings, digimon \(creature\), dragon, claws, spikes, red helmet
+ebrietas daughter of the cosmos, bloodborne, no humans, monster, green eyes, wings, skeletal wings, wings, tentacles, eldritch abomination, alien, slug
+gundam barbatos lupus, gundam, no humans, green eyes, blue eyes, glowing eye, mobile suit, mobile suit, v-fin, mecha
+hraesvelgr \(ff14\), final fantasy, no humans, monster, curled horns, multiple horns, tail, sharp teeth, black horns, blue eyes, yellow eyes, blonde hair, feathered wings, multiple wings, feathered wings, multiple wings, dragon, scales, claws
+core gundam, gundam, no humans, blue eyes, green eyes, glowing eyes, v-fin, mecha
+rykard lord of blasphemy, elden ring, no humans, monster, yellow eyes, multiple rings, snake, black sclera, scales
+flag custom, gundam, no humans, mecha
+gm sniper ii, gundam, no humans, holding gun, mobile suit, mobile suit, sniper rifle, mecha, radio antenna
+king gainer, overman king gainer, no humans, armor
+garland \(megazone 23\), megazone 23, no humans, machinery, mecha
+behemoth \(final fantasy\), final fantasy, no humans, monster, horns, beard
+galvatron, transformers, no humans, 1boy, horns, red eyes, decepticon, mecha
+linebarrel, kurogane no linebarrel, no humans, horns, green eyes, blue eyes, black hair, long hair, armor, mecha
+full armor unicorn gundam, gundam, no humans, holding gun, green eyes, purple eyes, purple hair, long hair, ass, mobile suit, deva battle suit, mobile suit, v-fin, gun, nt-d, mecha, missile pod
+orisa \(overwatch\), overwatch, no humans, 1girl, dark-skinned female, horns, yellow eyes, green eyes, green hair, centauroid, mecha musume, arm cannon
+rokusho \(medarot\), medarot, no humans, horns, red eyes, armor, armor, white armor, sword, antennae, humanoid robot, arm blade, mecha
+gm iii, gundam, no humans, mobile suit, mobile suit, beam rifle, mecha, radio antenna
+skullgreymon, digimon, no humans, monster, sharp teeth, single horn, green eyes, brown eyes, hair between eyes, brown hair, short hair, digimon \(creature\), claws, skeleton, bone
+narrative gundam, gundam, no humans, green eyes, glowing eyes, mobile suit, mobile suit, v-fin, mecha, nt-d
+algomon, digimon, no humans, monster, horns, yellow eyes, red eyes, extra eyes, multicolored eyes, long hair, digimon \(creature\), tentacles, antennae, yellow sclera, pokemon \(creature\)
+gundam lfrith, gundam, no humans, holding gun, green eyes, mobile suit, mobile suit, mecha
+bellabot, carrefour, no humans, 1girl, v-shaped eyebrows, robot
+cyclizar, pokemon, no humans, tongue, black eyes, white pupils, pokemon \(creature\)
+baund doc, gundam, no humans, 1girl, red eyes, mecha musume, mecha
+chameleos, monster hunter \(series\), no humans, monster, single horn, sharp teeth, long tongue, tail, purple eyes, short hair, purple hair, wings, wings, claws, dragon, scales
+octavia melody, my little pony, no humans, 1girl, horse ears, horse tail, purple eyes, long hair, green hair, swept bangs, ponytail, bow \(music\), pony \(animal\), animal, green fur, body fur, pillow, bed sheet, spoken heart, treble clef
+tarn, transformers, no humans, red eyes, mask, decepticon, mecha, insignia
+build burning gundam, gundam, no humans, glowing eyes, blue eyes, mecha
+ikaruga \(knight's & magic\), knight's & magic, no humans, red eyes, v-fin, mecha
+gustav karl, gundam, no humans, holding gun, red eyes, mobile suit, mobile suit, v-fin, mecha
+palkia \(origin\), pokemon, no humans, tail, red eyes, short hair, blonde hair, pokemon \(creature\), black sclera, centauroid
+divine arsenal aa-zeus - sky thunder, yu-gi-oh!, no humans, blue eyes, glowing eyes, mechanical wings, mechanical wings, duel monster, mecha
+escaflowne, tenkuu no escaflowne, no humans, blue eyes, glowing eyes, cape, wings, wings, mecha
+raideen \(mecha\), raideen \(series\), no humans, horns, yellow eyes, orange eyes, mechanical wings, super robot
+type 97 fubuki, muv-luv, no humans, holding gun, visor, tactical surface fighter
+leopardon, marvel, no humans, yellow eyes, blue eyes, glowing eyes, medium hair, small breasts, hooded bodysuit, v-fin, tokusatsu, superhero costume, tokusatsu
+panda \(tekken\), tekken, no humans, 1girl, black eyes, black hair, long hair, twintails, bracelet, panda, claws
+dukemon crimson mode, digimon, no humans, angel wings, angel wings, yellow eyes, armor, full armor, helmet, armor, shoulder armor, feathered wings, white wings, multiple wings, feathered wings, white wings, multiple wings, digimon \(creature\), knight, lance
+baltan seijin, ultra series, no humans, 1girl
+lio convoy, beast wars, no humans, fangs, yellow eyes, lion, claws, mecha
+crossbone gundam x-1 full cloth, gundam, no humans, green eyes, pink eyes, one eye covered, eyepatch, pirate hat, v-fin, virtual youtuber, virtual youtuber, pirate, mecha, pirate, gunpla, skull and crossbones
+floette \(eternal\), pokemon, no humans, pokemon \(creature\)
+tahu \(bionicle\), bionicle, no humans, 1boy, glowing eyes, mask, flaming sword, humanoid robot
+l-gaim mk ii, juusenki l-gaim, no humans, holding gun, red eyes, mecha
+gundam kyrios, gundam, no humans, green eyes, v-fin, mecha
+barzam, gundam, no humans, holding gun, mobile suit, mobile suit, beam rifle, one-eyed, mecha
+hulkbuster, marvel, no humans, glowing eyes, blue eyes, armor, power armor, armor, power armor, mecha
+mark sein, soukyuu no fafner, no humans, mecha, crystal
+mega beedrill, pokemon, no humans, red eyes, insect wings, pokemon \(creature\), mega pokemon, antennae, bee
+shagaru magala, monster hunter \(series\), no humans, 1girl, monster, monster girl, dragon horns, dragon tail, horns, sharp teeth, hair between eyes, brown eyes, glowing eyes, short eyebrows, thick eyebrows, white hair, long hair, blonde hair, ahoge, large breasts, dragon wings, dragon wings, claws, dragon girl, scales, dragon, winged arms
+velkhana, monster hunter \(series\), no humans, 1girl, monster, monster girl, dragon tail, dragon horns, horns, yellow eyes, slit pupils, blue hair, very long hair, dragon wings, dragon wings, dragon girl, claws, scales, ice
+alcremie \(ribbon sweet\), pokemon, no humans, purple eyes, ribbon, pokemon \(creature\)
+voltes v \(mecha\), choudenji machine voltes v, no humans, yellow eyes, glowing eyes, super robot
+daizyuzin, kyouryuu sentai zyuranger, no humans, horns, yellow eyes, armor, tokusatsu, tokusatsu, super robot
+optimus prime \(shattered glass\), transformers, no humans, red eyes, autobot, mecha
+mark nicht, soukyuu no fafner, no humans, horns, wings, mechanical wings, wings, mechanical wings, claws, mecha, crystal
+anjanath, monster hunter \(series\), no humans, monster, sharp teeth, dinosaur tail, tail, yellow eyes, slit pupils, claws, dinosaur
+laurence the first vicar, bloodborne, no humans, 1boy, monster, horns, hair between eyes, blue eyes, long hair, brown hair, black robe, white capelet, black gloves, black robe, white coat, long sleeves, antlers, claws
+gundam tr-1 hazel, advance of zeta, no humans, holding gun, green eyes, mobile suit, mobile suit, v-fin, shield, mecha
+srx, super robot wars, no humans, green eyes, glowing eyes, v-fin, mecha musume, super robot
+orguss \(mecha\), choujikuu seiki orguss, no humans, energy cannon, shield, rocket launcher, antennae, pilot, mecha, arm cannon, radio antenna
+huckebein, super robot wars, no humans, green eyes, v-fin, mecha
+anubis \(z.o.e.\), zone of the enders, no humans, red eyes, glowing eyes, wings, mecha
+gespenst, super robot wars, no humans, green eyes, mecha
+royal ludroth, monster hunter \(series\), no humans, monster, tail, horns, blue eyes, blonde hair, medium breasts, claws, scales
+galeem, super smash bros., no humans, white hair
+ultraman trigger, ultra series, no humans, 1boy, yellow eyes, glowing eyes, armor, multicolored bodysuit, red bodysuit, armor, tokusatsu, alien, tokusatsu
+rising freedom gundam, gundam, no humans, holding gun, glowing eyes, blue eyes, green eyes, mobile suit, mobile suit, v-fin, mechanical wings, beam rifle, mecha
+chimumu \(hamster\), pretty series, no humans, 1girl, yellow eyes, eyewear on head, pink-tinted eyewear, streaked hair, short hair, long hair, green hair, blunt bangs, double bun, sunglasses, long sleeves, hamster, facial mark
+shadow lugia, pokemon, no humans, red eyes, pokemon \(creature\)
+g-saviour gundam, gundam, no humans, green eyes, mobile suit, v-fin, beam rifle, mecha
+orgun, detonator orgun, no humans, yellow eyes, armor, power armor, armor, power armor, mecha, lance
+vox aura, rinne no lagrange, no humans, brown eyes, brown hair, mecha
+kamen rider amazon omega, kamen rider, no humans, 1boy, monster, single horn, sharp teeth, red eyes, compound eyes, glowing eyes, armor, armor, helmet, rider belt, belt, claws, fins, tokusatsu, arm blade
+ronin \(titanfall 2\), titanfall \(series\), no humans, blue eyes, glowing eye, one-eyed, mecha
+eiscue \(noice\), pokemon, no humans, pokemon \(creature\), penguin
+daitarn 3, muteki koujin daitarn 3, no humans, yellow eyes, super robot
+v2 assault-buster gundam, gundam, no humans, holding gun, green eyes, mobile suit, mobile suit, v-fin, energy wings, beam rifle, shield, mecha musume, mecha
+arx-8 laevatein, full metal panic!, no humans, holding gun, glowing eyes, green eyes, mecha
+jesta, gundam, no humans, holding gun, mobile suit, mobile suit, mecha
+koutetsu jeeg \(mecha\), koutetsu jeeg, no humans, yellow eyes, super robot
+stark jegan, gundam, no humans, holding gun, blue eyes, mobile suit, mobile suit, mecha, missile pod, thrusters
+mega pidgeot, pokemon, no humans, red eyes, mega pokemon, pokemon \(creature\), bird, talons, claws, beak
+gundam vidar, gundam, no humans, glowing eyes, pink eyes, red eyes, purple eyes, mobile suit, mobile suit, v-fin, mecha, rapier
+gundam bael, gundam, no humans, pink eyes, glowing eyes, glowing eye, mobile suit, mobile suit, v-fin, mecha
+xenogears \(mecha\), xenogears, no humans, very long hair, mecha musume, mecha
+mito \(murayama ryota\), original, no humans, mouse tail, mouse ears, tail, blue eyes, white hair, short hair, black cloak, clothed animal, mouse \(animal\), quiver, pendant, rock
+crossbone gundam x-2, crossbone gundam, no humans, mecha, lance, skull and crossbones
+dangaioh hyper combat unit, dangaiou, no humans, yellow eyes, super robot
+blade liger, zoids, no humans, fangs, tail, yellow eyes, claws, mecha
+gaofighgar, yuusha series, no humans, orange eyes, full armor, v-fin, wings, wings, super robot, drill
+espinas, monster hunter \(series\), no humans, 1girl, monster, pointy ears, spiked tail, horns, sharp teeth, yellow eyes, green hair, red hair, two-tone hair, gradient hair, medium breasts, cleavage, black sclera, green scales, wyvern, spikes
+geara zulu, gundam, no humans, pink eyes, glowing eye, mobile suit, one-eyed, mecha
+quetzalcoatl \(mythology\), original, no humans, 1girl, feathered wings, snake
+alphamon ouryuuken, digimon, no humans, horns, red eyes, yellow eyes, horned helmet, black armor, white cape, shoulder armor, feathered wings, digimon \(creature\), forehead jewel, knight, mecha, knight, black helmet
+merkava \(under night in-birth\), under night in-birth, no humans, monster, blue eyes, glowing eyes, white hair, very long hair, huge ahoge, neon trim
+f-22a raptor \(muv-luv\), muv-luv, no humans, holding gun, extra eyes, blue eyes, glowing eyes, tactical surface fighter
+star build strike gundam, gundam, no humans, green eyes, glowing eyes, mobile suit, mobile suit, v-fin, energy wings, beam rifle, energy wings, gun, shield, mecha
+qubeley papillon, gundam, no humans, 1girl, long hair, grey hair, mecha, lance
+tobi-kadachi, monster hunter \(series\), no humans, 1girl, monster girl, tail, fangs, horns, red eyes, hair between eyes, slit pupils, white hair, very long hair, wings, claws, scales
+gundam schwarzette, gundam, no humans, horns, purple eyes, glowing eyes, pink eyes, mobile suit, mobile suit, mecha
+destiny gundam spec ii, gundam, no humans, green eyes, glowing eyes, mobile suit, mobile suit, v-fin, energy wings, energy sword, energy wings, mecha
+gundam deathscythe hell custom, gundam, no humans, green eyes, glowing eyes, short hair, mobile suit, v-fin, wings, energy weapon, mecha musume, scythe, mecha
+chi \(character\), chi's sweet home, no humans, lips, brown eyes, long hair, brown hair, swept bangs, medium breasts, sweat, cat, animal, abs, nose, whisker markings
+quin mantha, gundam, no humans, orange hair, mecha
+zudah, gundam, no humans, single horn, pink eyes, glowing eye, mobile suit, zeon, one-eyed, mecha, zeon
+ultraman gaia, ultraman gaia \(series\), no humans, floating hair, skin tight, glowing eyes, hair between eyes, orange eyes, very long hair, medium breasts, covered navel, red bodysuit, helmet, gloves, tokusatsu, alien, lipstick, tokusatsu
+ultraman nexus, ultra series, no humans, 1boy, yellow eyes, glowing eyes, armor, armor, bodysuit, tokusatsu, dorsal fin, alien, tokusatsu, arm blade
+providence gundam, gundam, no humans, green eyes, mobile suit, mobile suit, v-fin, beam rifle, shield, gun, mecha, funnels \(gundam\)
+amatsumagatsuchi, monster hunter \(series\), no humans, 1girl, monster, monster girl, horns, dragon horns, dragon tail, yellow horns, yellow eyes, very long hair, white hair, wide sleeves, long sleeves, whiskers, dragon girl, obi
+g-arcane, gundam, no humans, holding gun, blue eyes, green eyes, mobile suit, mobile suit, v-fin, mecha
+aegis \(girls' frontline\), girls' frontline, no humans, red eyes, medium breasts, armor, armor, baton \(weapon\), humanoid robot
+liger zero, zoids, no humans, green eyes, glowing eyes, long hair, claws, mecha musume, mecha, non-humanoid robot, robot animal
+sirbine, seisenshi dunbine, no humans, single horn, red eyes, insect wings, insect wings, mecha
+gundam age-2, gundam, no humans, 1girl, green eyes, short hair, beam rifle, mecha musume, mecha
+hammond \(overwatch\), overwatch, no humans, 1girl, lips, brown eyes, brown hair, short hair, high ponytail, ponytail, fingernails, pink nails, hamster, facepaint, whisker markings, nose, crop top
+namielle, monster hunter \(series\), no humans, 1girl, monster girl, horns, tail, sharp teeth, yellow eyes, red hair, blue hair, medium breasts, wings, dragon wings, wings, tentacles, dragon girl, claws, dragon, head fins
+morphomon, digimon, no humans, blue eyes, insect wings, wings, butterfly wings, insect wings, wings, digimon \(creature\), antennae, blue butterfly, butterfly
+kenbu \(kyoukai senki\), kyoukai senki, no humans, glowing eyes, blue eyes, glowing eye, v-fin, mecha, logo
+donmomotarou, avataro sentai donbrothers, no humans, 1boy, armor, helmet, red gloves, armor, sunglasses, visor, tokusatsu, tokusatsu
+nineball seraph, armored core, no humans, 1girl, blue eyes, red hair, short hair, hair bow, wings, mecha musume, mecha
+gundam heavyarms custom, gundam, no humans, green eyes, glowing eye, mobile suit, mobile suit, v-fin, gatling gun, mecha
+f-4j gekishin, muv-luv, no humans, tactical surface fighter
+byalant custom, gundam, no humans, claws, mecha
+dis astranagant, super robot wars, no humans, red eyes, glowing eyes, wings, wings, mecha musume, mecha
+blitz gundam, gundam, no humans, blue eyes, green eyes, mobile suit, mobile suit, v-fin, mecha
+gm custom, gundam, no humans, holding gun, mobile suit, mobile suit, shield, mecha
+black sabbath \(stand\), jojo no kimyou na bouken, no humans, 1boy, horns, yellow eyes, hat, mask
+perfect strike gundam, gundam, no humans, holding gun, yellow eyes, glowing eyes, mobile suit, mobile suit, v-fin, mechanical wings, mechanical wings, beam rifle, energy sword, gatling gun, mecha
+nightbird \(transformers\), transformers, no humans, 1girl, yellow eyes, glowing eyes, red eyes, large breasts, helmet, robot girl, decepticon, ninja, mecha, humanoid robot
+moon gundam \(mobile suit\), gundam, no humans, green eyes, glowing eyes, mobile suit, mobile suit, v-fin, mecha
+train \(the murder of sonic the hedgehog\), sonic \(series\), no humans, horns, yellow eyes, red eyes, black eyes, constricted pupils, red bowtie, traditional bowtie, spring \(object\), one-eyed, mechanical arms, black sclera, scratches, robot
+gundam astray blue frame, gundam, no humans, 1girl, grey hair, long hair, mecha musume, mecha
+arl-99 helldiver, kidou keisatsu patlabor, no humans, mecha
+0 gundam, gundam, no humans, holding gun, blue eyes, mobile suit, v-fin, shield, energy sword, mecha
+galgomon, digimon, no humans, single horn, rabbit ears, floppy ears, green horns, blue pants, ammunition belt, belt, gatling gun, digimon \(creature\), claws, whisker markings, arm cannon, jeans
+capra demon, dark souls \(series\), no humans, monster, demon horns, demon tail, demon girl, red skin, horns, sharp teeth, red eyes, extra eyes, pink eyes, glowing eyes, large breasts, thick thighs, navel, abs, muscular female, obliques, loincloth
+gundam age-2 darkhound, gundam, no humans, holding gun, pink eyes, yellow eyes, one eye covered, eyepatch, pirate hat, virtual youtuber, v-fin, virtual youtuber, pirate, mecha, pirate, gunpla
+sevenger, ultra series, no humans, yellow eyes, tokusatsu, mecha, tokusatsu
+michaelis \(mobile suit\), gundam, no humans, glowing eye, mobile suit, mobile suit, one-eyed, mecha, arm cannon
+strike rouge, gundam, no humans, green eyes, glowing eyes, short hair, blonde hair, mobile suit, mobile suit, v-fin, mecha
+gundam stargazer, gundam, no humans, green eyes, glowing eyes, blue eyes, mobile suit, mobile suit, v-fin, mecha
+akatsuki gundam, gundam, no humans, blue eyes, blonde hair, short hair, long hair, medium breasts, v-fin, shield, mecha musume, mecha
+duel gundam, gundam, no humans, holding gun, green eyes, blue eyes, mobile suit, mobile suit, v-fin, mecha
+dragon gundam, g gundam, no humans, green eyes, v-fin, mecha, super robot
+gundam harute, gundam, no humans, holding gun, glowing eyes, red eyes, extra eyes, mobile suit, mobile suit, v-fin, beam rifle, gun, mecha
+knockout \(transformers\), transformers, no humans, 1boy, red eyes, decepticon, black sclera, mecha
+odogaron, monster hunter \(series\), no humans, 1girl, monster, monster girl, red skin, tail, sharp teeth, horns, blue eyes, glowing eyes, red hair, long hair, small breasts, claws, scales, nostrils
+gundam exia repair iv, gundam, no humans, green eyes, blue eyes, mobile suit, grey armor, mobile suit, v-fin, mecha, machinery
+gundam 00 sky, gundam, no humans, blue eyes, pink eyes, glowing eyes, green eyes, purple eyes, mobile suit, mobile suit, v-fin, mecha
+nightfall \(armored core 6\), armored core, no humans, red eyes, glowing eyes, glowing eye, shoulder cannon, mecha, missile pod
+siriusmon, digimon, no humans, 1boy, white skin, horns, yellow eyes, blonde hair, short hair, spiked hair, armor, armor, white armor, helmet, torn wings, wings, torn wings, sword, digimon \(creature\), dragon, claws, arm cannon, arm blade
+evil snake lord, ragnarok online, no humans, 1girl, monster, demon, blue eyes, red eyes, long hair, white hair, ass, chinese clothes, chinese clothes, snake, white snake, paintbrush, mian guan, guan hat
+type j-9 griffon, kidou keisatsu patlabor, no humans, mecha
+juaggu, gundam, no humans, glowing eye, blonde hair, zeon, mecha musume, mecha
+efreet custom, gundam, no humans, single horn, purple eyes, pink eyes, red eyes, glowing eye, mobile suit, mobile suit, shoulder spikes, one-eyed, zeon, mecha musume, mecha, zeon
+ryuujinmaru, mashin eiyuuden wataru, no humans, green eyes, glowing eyes, glowing eye, v-fin, mecha
+gundam age-fx, gundam, no humans, glowing eyes, blue eyes, aqua eyes, mobile suit, mobile suit, v-fin, mecha, funnels \(gundam\)
+strongarm \(transformers\), transformers, no humans, 1girl, blue lips, blue eyes, aqua eyes, glowing eyes, large breasts, v-fin, autobot, robot girl, lipstick, mecha, humanoid robot
+mobile doll sara, gundam, no humans, 1girl, no mouth, blue eyes, purple eyes, blue hair, small breasts, android, mecha, humanoid robot
+nu gundam \(rx-93ff\), char's counterattack, no humans, green eyes, mobile suit, mobile suit, v-fin, mecha
+mokujin \(tekken\), tekken, no humans, brown eyes, short hair, blonde hair, brown hair
+king j-der, yuusha series, no humans, blue eyes, full armor, full armor, v-fin, super robot
+soulgain, super robot wars, no humans, red eyes, glowing eyes, v-fin, mecha, super robot
+airazor, transformers, no humans, 1girl, blue eyes, green eyes, glowing eyes, long hair, helmet, wings, feathered wings, wings, robot girl, mecha musume, autobot, mecha, humanoid robot
+strike noir, gundam, no humans, holding gun, yellow eyes, glowing eyes, glowing eye, long hair, mobile suit, mobile suit, v-fin, mechanical wings, mechanical wings, energy gun, mecha musume, mecha, beam gun
+white fatalis, monster hunter \(series\), no humans, 1girl, monster girl, monster, horns, tail, dragon horns, red eyes, long hair, large breasts, wings, dragon wings, wings, dragon girl, claws
+chigaunsuyo, touhou, no humans, brown eyes, brown hair, ponytail, hair bow, hair tubes, red bow
+gammoth, monster hunter \(series\), no humans, monster, yellow eyes, blue eyes, white hair, grey hair, blue hair, boots, elephant, tusks, blue fur, multicolored fur, red fur
+kaiser gridknight, gridman universe, no humans, orange eyes, shoulder cannon, v-fin, visor, super robot
+omegamon alter-s, digimon, no humans, horns, blue eyes, extra eyes, yellow eyes, armor, armor, torn cape, cape, cannon, sword, digimon \(creature\), spikes, mecha, arm blade, arm cannon
+zaku warrior lunamaria custom, gundam, no humans, 1girl, blue eyes, purple eyes, short hair, pink hair, ahoge, military uniform, black thighhighs, mecha
+neue ziel, gundam, no humans, zeon, mecha, mobile armor
+kabosu \(dog\), original, no humans, dog ears, long hair, dog, shiba inu, animal, whiskers, body fur
+re:rising gundam, gundam, no humans, single horn, green eyes, glowing eyes, aqua eyes, v-fin, mecha
+war machine pathfinder, apex legends, no humans, 1boy, holding gun, armor, humanoid robot, mecha
+pale rider \(mobile suit\), gundam, no humans, holding gun, red eyes, glowing eyes, mobile suit, mobile suit, mecha, beam saber
+dilanza guel custom, gundam, no humans, single horn, yellow eyes, mobile suit, mobile suit, mecha, lance
+vf-1j armored, choujikuu yousai macross, no humans, energy cannon, u.n. spacy, mecha, roundel, missile pod, u.n. spacy, missile, reactive armor
+f90 gundam, gundam, no humans, holding gun, green eyes, mobile suit, v-fin, mecha
+brave commander test type, gundam, no humans, mobile suit, mecha
+lily \(animal crossing\), animal crossing, no humans, 1girl, green skin, orange eyes, brown eyes, eyelashes, orange pupils, no feet, print dress, sleeveless dress, frog girl, frog
+vic viper \(z.o.e.\), zone of the enders, no humans, armor, mecha
+omega prime, transformers, no humans, yellow eyes, blue eyes, shoulder cannon, autobot, mecha
+elesh norn, magic: the gathering, no humans, 1girl, monster girl, red skin, no eyes, medium breasts, exposed muscle
+gundam tryon 3, gundam, no humans, fangs, glowing eyes, green eyes, yellow eyes, shoulder cannon, cannon, shield, weapon, claws, mecha
+flamewar, transformers, no humans, 1girl, metal skin, purple eyes, glowing eyes, medium breasts, thighs, helmet, wings, robot girl, decepticon, narrow waist, robot joints, mecha, humanoid robot
+huckebein 30, super robot wars, no humans, v-fin, mecha, caution tape
+blue destiny 02, gundam, no humans, red eyes, green eyes, glowing eyes, blue hair, large breasts, mobile suit, mobile suit, skindentation, v-fin, mecha musume, zeon, mecha, beam saber
+gundam astray gold frame amatsu mina custom, gundam, no humans, very long hair, blue hair, mobile suit, mecha musume, mecha
+mark alles, soukyuu no fafner, no humans, horns, wings, mechanical wings, wings, mecha, arm blade, crystal, spikes
+gundam asmoday, gundam, no humans, horns, blue eyes, mobile suit, mobile suit, v-fin, mecha
+new arhan, rakuen tsuihou, no humans, 1girl, skin tight, blue eyes, eyebrows, very long hair, blonde hair, star hair ornament, low twintails, medium breasts, large breasts, breasts apart, between breasts, thigh strap, covered navel, highleg leotard, deva battle suit, impossible leotard, armor, pilot suit, elbow gloves, black gloves, highleg leotard, deva battle suit, impossible leotard, armor, pilot suit, bare shoulders, halterneck, turtleneck, mecha, headgear, neon trim, thighlet, cameltoe
+amygdala \(bloodborne\), bloodborne, no humans, monster, short hair, eldritch abomination

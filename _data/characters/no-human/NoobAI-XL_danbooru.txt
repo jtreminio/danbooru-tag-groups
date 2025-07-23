@@ -1,0 +1,856 @@
+# https://www.downloadmost.com/NoobAI-XL/danbooru-character
+pikachu, pokemon, no humans, pokemon \(creature\)
+kirby, kirby \(series\), no humans, blue eyes
+eevee, pokemon, no humans, animal ears, brown eyes, short hair, pokemon \(creature\)
+non-human admiral \(kancolle\), kantai collection, no humans, 1girl, long hair
+rowlet, pokemon, no humans, white pupils, pokemon \(creature\), owl
+charizard, pokemon, no humans, flame-tipped tail, fangs, blue eyes, pokemon \(creature\), claws, dragon
+piplup, pokemon, no humans, tongue, blue eyes, toes, pokemon \(creature\)
+gengar, pokemon, no humans, teeth, red eyes, pokemon \(creature\)
+umbreon, pokemon, no humans, red eyes, pokemon \(creature\), red sclera, black fur
+sylveon, pokemon, no humans, blue eyes, prehensile ribbon, pokemon \(creature\)
+bulbasaur, pokemon, no humans, fangs, red eyes, white pupils, pokemon \(creature\), claws
+mimikyu, pokemon, no humans, pokemon \(creature\)
+scorbunny, pokemon, no humans, brown eyes, pokemon \(creature\)
+oshawott, pokemon, no humans, blue eyes, freckles, pokemon \(creature\)
+jigglypuff, pokemon, no humans, blue eyes, pokemon \(creature\)
+espeon, pokemon, no humans, forked tail, purple eyes, pokemon \(creature\), forehead jewel
+sprigatito, pokemon, no humans, fangs, red eyes, pokemon \(creature\), cat
+snivy, pokemon, no humans, red eyes, pokemon \(creature\)
+squirtle, pokemon, no humans, pokemon \(creature\)
+sobble, pokemon, no humans, blue eyes, white pupils, pokemon \(creature\)
+cyndaquil, pokemon, no humans, pokemon \(creature\)
+leafeon, pokemon, no humans, brown eyes, pokemon \(creature\)
+charmander, pokemon, no humans, flame-tipped tail, fangs, blue eyes, pokemon \(creature\), claws
+jirachi, pokemon, no humans, pokemon \(creature\)
+meowth, pokemon, no humans, fangs, pokemon \(creature\), cat
+torchic, pokemon, no humans, brown hair, pokemon \(creature\)
+godzilla, godzilla \(series\), no humans, monster, sharp teeth, tail, teeth, scales, claws, spikes
+flareon, pokemon, no humans, pokemon \(creature\)
+popplio, pokemon, no humans, black eyes, blue eyes, pokemon \(creature\)
+garchomp, pokemon, no humans, sharp teeth, yellow eyes, blonde hair, pokemon \(creature\), black sclera, claws
+meta knight, kirby \(series\), no humans, yellow eyes, mask, cape, galaxia \(sword\)
+grookey, pokemon, no humans, black eyes, pokemon \(creature\), monkey
+mudkip, pokemon, no humans, pokemon \(creature\)
+pichu, pokemon, no humans, pokemon \(creature\)
+chikorita, pokemon, no humans, red eyes, pokemon \(creature\)
+tepig, pokemon, no humans, 1girl, blue eyes, brown hair, long hair, pokemon \(creature\)
+rx-78-2, gundam, no humans, yellow eyes, mobile suit, mobile suit, v-fin, mecha
+fuecoco, pokemon, no humans, fangs, tongue, white pupils, pokemon \(creature\)
+litten, pokemon, no humans, red eyes, pokemon \(creature\), cat, yellow sclera
+litwick, pokemon, no humans, yellow eyes, pokemon \(creature\)
+latias, pokemon, no humans, yellow eyes, pokemon \(creature\), claws
+altaria, pokemon, no humans, pokemon \(creature\), bird, fluffy, beak, white feathers, blue feathers
+waddle dee, kirby \(series\), no humans, blue eyes
+jolteon, pokemon, no humans, pokemon \(creature\), yellow fur
+mew \(pokemon\), pokemon, no humans, blue eyes, pokemon \(creature\)
+alolan vulpix, pokemon, no humans, fox ears, fox tail, blue eyes, short hair, white hair, pokemon \(creature\), white fur, two-tone fur, body fur
+lapras, pokemon, no humans, single horn, blue eyes, pokemon \(creature\)
+cosmog, pokemon, no humans, yellow eyes, green eyes, blonde hair, long hair, pokemon \(creature\)
+fennekin, pokemon, no humans, animal ear fluff, red eyes, pokemon \(creature\)
+red pikmin, pikmin \(series\), no humans, red skin, no mouth, black eyes, pikmin \(creature\), pointy nose
+raichu, pokemon, no humans, pokemon \(creature\)
+drifloon, pokemon, no humans, black eyes, pokemon \(creature\)
+optimus prime, transformers, no humans, blue eyes, glowing eyes, autobot, mecha
+flygon, pokemon, no humans, pokemon \(creature\), claws
+eva 01, neon genesis evangelion, no humans, single horn, glowing eyes, evangelion \(mecha\), mecha
+ditto, pokemon, no humans, pokemon \(creature\)
+dragonite, pokemon, no humans, pokemon \(creature\), claws, dragon
+totodile, pokemon, no humans, sharp teeth, fangs, red eyes, pokemon \(creature\)
+milotic, pokemon, no humans, red eyes, pokemon \(creature\)
+pachirisu, pokemon, no humans, black eyes, pokemon \(creature\)
+alcremie, pokemon, no humans, red eyes, pokemon \(creature\)
+psyduck, pokemon, no humans, pokemon \(creature\)
+gastly, pokemon, no humans, fangs, black eyes, pokemon \(creature\), ghost
+clefairy, pokemon, no humans, 1girl, green eyes, blonde hair, long hair, short hair, pokemon \(creature\)
+king dedede, kirby \(series\), no humans, blue eyes, hat, star \(symbol\)
+chandelure, pokemon, no humans, yellow eyes, purple hair, pokemon \(creature\)
+yamper, pokemon, no humans, fangs, green eyes, pokemon \(creature\), dog
+quaxly, pokemon, no humans, blue eyes, white pupils, pokemon \(creature\)
+yoshi, mario \(series\), no humans, blue eyes, long hair
+celebi, pokemon, no humans, blue eyes, pokemon \(creature\), antennae
+marill, pokemon, no humans, blue eyes, black eyes, pokemon \(creature\)
+togepi, pokemon, no humans, pokemon \(creature\)
+giratina, pokemon, no humans, red eyes, pokemon \(creature\), black sclera, claws
+latios, pokemon, no humans, red eyes, pokemon \(creature\), claws
+furret, pokemon, no humans, pokemon \(creature\), whisker markings
+shaymin, pokemon, no humans, green eyes, green hair, pokemon \(creature\)
+mismagius, pokemon, no humans, 1girl, red eyes, witch hat, pokemon \(creature\), yellow sclera
+arcanine, pokemon, no humans, fangs, pokemon \(creature\)
+wooloo, pokemon, no humans, black eyes, long hair, white hair, twin braids, pokemon \(creature\), sheep
+ralts, pokemon, no humans, white skin, red eyes, hair over eyes, green hair, short hair, blunt bangs, pokemon \(creature\), bowl cut
+magikarp, pokemon, no humans, 1girl, fox girl, fox ears, long hair, white hair, virtual youtuber, pokemon \(creature\), fish
+swablu, pokemon, no humans, blue hair, pokemon \(creature\), bird, fluffy, feathers
+goomy, pokemon, no humans, pokemon \(creature\)
+zorua, pokemon, no humans, blue eyes, pokemon \(creature\)
+lugia, pokemon, no humans, pokemon \(creature\)
+mawile, pokemon, no humans, yellow skin, two-tone skin, extra mouth, sharp teeth, red eyes, black hair, blunt bangs, pokemon \(creature\)
+vulpix, pokemon, no humans, multiple tails, fox ears, fox tail, brown eyes, red hair, short hair, pokemon \(creature\), brown fur, body fur
+yellow pikmin, pikmin \(series\), no humans, yellow skin, pointy ears, no mouth, black eyes, pikmin \(creature\)
+emolga, pokemon, no humans, black eyes, black hair, pokemon \(creature\)
+haunter, pokemon, no humans, pokemon \(creature\), ghost
+wooper, pokemon, no humans, tail, black eyes, pokemon \(creature\)
+venusaur, pokemon, no humans, red eyes, pokemon \(creature\), claws
+turtwig, pokemon, no humans, tongue, pokemon \(creature\)
+treecko, pokemon, no humans, yellow eyes, pokemon \(creature\), yellow sclera
+zaku ii, gundam, no humans, glowing eye, mobile suit, mobile suit, one-eyed, zeon, mecha, zeon
+dedenne, pokemon, no humans, pokemon \(creature\)
+iggy \(jojo\), jojo no kimyou na bouken, no humans, blue eyes, dog
+magolor, kirby \(series\), no humans, 1boy, animal ears, yellow eyes, red eyes, white gloves, white scarf, belt buckle, rayman limbs, disembodied hand, master crown
+blue pikmin, pikmin \(series\), no humans, pointy ears, black eyes, pikmin \(creature\)
+oddish, pokemon, no humans, pokemon \(creature\)
+blastoise, pokemon, no humans, fangs, cannon, pokemon \(creature\), claws
+whimsicott, pokemon, no humans, orange eyes, yellow eyes, white hair, big hair, very long hair, pokemon \(creature\)
+lycanroc, pokemon, no humans, blue eyes, red eyes, green eyes, white hair, pokemon \(creature\), claws, white fur
+ampharos, pokemon, no humans, black eyes, pokemon \(creature\)
+typhlosion, pokemon, no humans, fangs, red eyes, pokemon \(creature\)
+ho-oh, pokemon, no humans, red eyes, pokemon \(creature\), bird, talons
+rayquaza, pokemon, no humans, yellow eyes, pokemon \(creature\), claws, black sclera, eastern dragon, mega pokemon
+amaterasu \(ookami\), ookami \(game\), no humans, 1girl, wolf ears, white hair, long hair, wolf
+froslass, pokemon, no humans, blue eyes, pokemon \(creature\), yellow sclera
+buneary, pokemon, no humans, pokemon \(creature\), brown fur
+gyarados, pokemon, no humans, fangs, red eyes, long hair, pokemon \(creature\)
+hoppip, pokemon, no humans, yellow eyes, pokemon \(creature\)
+banette, pokemon, no humans, pokemon \(creature\), mega pokemon, zipper, zipper pull tab
+kyogre, pokemon, no humans, yellow eyes, blue hair, pokemon \(creature\), black sclera
+killer queen, jojo no kimyou na bouken, no humans, 1boy, cat ears, slit pupils
+suicune, pokemon, no humans, red eyes, purple hair, pokemon \(creature\)
+decidueye, pokemon, no humans, yellow eyes, feather hair, feathered wings, bird wings, feathered wings, bird wings, pokemon \(creature\), owl, beak, winged arms, talons, winged arms, white feathers, plume, green feathers
+lilligant, pokemon, no humans, 1girl, plant girl, white skin, green skin, two-tone skin, no mouth, orange eyes, red eyes, green hair, long hair, sidelocks, hair flower, flat chest, pokemon \(creature\)
+bandana waddle dee, kirby \(series\), no humans, orange skin, no mouth, brown eyes, v-shaped eyebrows, spear, blue bandana
+skitty, pokemon, no humans, pokemon \(creature\), cat
+shaymin \(land\), pokemon, no humans, green eyes, green hair, pokemon \(creature\)
+misdreavus, pokemon, no humans, red eyes, pokemon \(creature\), yellow sclera, ghost
+minun, pokemon, no humans, 1girl, yellow eyes, pokemon \(creature\)
+vf-1, macross, no humans, u.n. spacy, mecha, u.n. spacy
+megatron, transformers, no humans, red eyes, decepticon, mecha, arm cannon
+quagsire, pokemon, no humans, black eyes, pokemon \(creature\)
+hisuian zorua, pokemon, no humans, yellow eyes, orange eyes, white pupils, pokemon \(creature\)
+scizor, pokemon, no humans, yellow eyes, insect wings, insect wings, pokemon \(creature\), claws
+ivysaur, pokemon, no humans, fangs, red eyes, pokemon \(creature\), claws
+serperior, pokemon, no humans, red eyes, green hair, pokemon \(creature\), snake
+slowpoke, pokemon, no humans, fangs, pokemon \(creature\)
+marx \(kirby\), kirby \(series\), no humans, purple skin, fangs, purple eyes, short hair, purple hair, jester cap, brown footwear, pom pom \(clothes\), polka dot headwear, two-tone headwear, red headwear, blue headwear, red bowtie, wings, yellow wings, wings, yellow wings, claws, heart, blu
+dreepy, pokemon, no humans, yellow eyes, pokemon \(creature\), claws
+chespin, pokemon, no humans, pokemon \(creature\)
+butterfree, pokemon, no humans, fangs, red eyes, pokemon \(creature\), butterfly, antennae
+joltik, pokemon, no humans, blue eyes, pokemon \(creature\)
+gundam aerial, gundam, no humans, green eyes, blue eyes, glowing eyes, mobile suit, mobile suit, v-fin, mecha
+arbok, pokemon, no humans, 1girl, fangs, pokemon \(creature\), snake
+darkrai, pokemon, no humans, floating hair, blue eyes, white pupils, white hair, long hair, pokemon \(creature\), blue sclera
+jibanyan, youkai watch, no humans, notched ear, two tails, flame-tipped tail, fangs, youkai \(youkai watch\), cat, haramaki
+komasan, youkai watch, no humans, youkai \(youkai watch\), furoshiki
+shinx, pokemon, no humans, yellow eyes, pokemon \(creature\)
+ogerpon, pokemon, no humans, fangs, yellow eyes, star-shaped pupils, pokemon \(creature\)
+wobbuffet, pokemon, no humans, long hair, pokemon \(creature\)
+agumon, digimon, no humans, sharp teeth, green eyes, digimon \(creature\), claws
+arceus, pokemon, no humans, red eyes, pokemon \(creature\), green sclera
+houndoom, pokemon, no humans, horns, red eyes, black hair, pokemon \(creature\), claws
+froakie, pokemon, no humans, pokemon \(creature\)
+nihilego, pokemon, no humans, 1girl, blonde hair, very long hair, long hair, pokemon \(creature\), tentacles, jellyfish
+starscream, transformers, no humans, red eyes, black hair, decepticon, mecha
+dragonair, pokemon, no humans, single horn, head wings, pokemon \(creature\)
+minccino, pokemon, no humans, brown eyes, black eyes, pokemon \(creature\)
+sableye, pokemon, no humans, sharp teeth, blue eyes, pokemon \(creature\)
+cutiefly, pokemon, no humans, black eyes, pokemon \(creature\)
+sirfetch'd, pokemon, no humans, brown eyes, thick eyebrows, v-shaped eyebrows, pokemon \(creature\), duck
+applin, pokemon, no humans, hair between eyes, yellow eyes, black hair, long sleeves, pokemon \(creature\)
+growlithe, pokemon, no humans, pokemon \(creature\)
+snom, pokemon, no humans, black eyes, long hair, pokemon \(creature\)
+alolan raichu, pokemon, no humans, blue eyes, pokemon \(creature\)
+togekiss, pokemon, no humans, black eyes, white hair, long hair, pokemon \(creature\)
+diglett, pokemon, no humans, blue eyes, pokemon \(creature\)
+feraligatr, pokemon, no humans, sharp teeth, yellow eyes, pokemon \(creature\), claws
+pumpkaboo, pokemon, no humans, fangs, yellow eyes, pokemon \(creature\)
+azumarill, pokemon, no humans, 1girl, rabbit ears, blue eyes, blue hair, pokemon \(creature\)
+purple pikmin, pikmin \(series\), no humans, purple skin, no mouth, pointy ears, black eyes, purple hair, very short hair, plump, pikmin \(creature\)
+pyukumuku, pokemon, no humans, 1girl, pink eyes, pokemon \(creature\)
+koraidon, pokemon, no humans, orange eyes, pokemon \(creature\), yellow sclera
+munchlax, pokemon, no humans, fangs, black eyes, blue eyes, pokemon \(creature\), claws
+zekrom, pokemon, no humans, red eyes, yellow eyes, hair between eyes, black hair, short hair, wings, pokemon \(creature\), claws, dragon
+metagross, pokemon, no humans, red eyes, pokemon \(creature\), claws, black sclera
+pidgey, pokemon, no humans, blue eyes, black eyes, pokemon \(creature\), bird
+espurr, pokemon, no humans, tail, purple eyes, pokemon \(creature\), grey fur
+red xiii, final fantasy, no humans, flame-tipped tail, yellow eyes, scar across eye, brown hair, red hair, feather hair ornament, scar on face, animal, orange fur, facial mark
+jumpluff, pokemon, no humans, red eyes, pink eyes, pokemon \(creature\)
+whisper \(youkai watch\), youkai watch, no humans, purple lips, long hair, youkai \(youkai watch\), ghost, traditional youkai
+rotom dex, pokemon, no humans, blue eyes, short hair, pokemon \(creature\)
+reuniclus, pokemon, no humans, black eyes, pokemon \(creature\)
+aegislash, pokemon, no humans, purple eyes, sword, pokemon \(creature\), one-eyed
+zeta gundam \(mobile suit\), gundam, no humans, green eyes, mobile suit, mobile suit, v-fin, mecha
+zaku, gundam, no humans, mecha
+dragapult, pokemon, no humans, yellow eyes, pokemon \(creature\), claws
+sentret, pokemon, no humans, hair between eyes, purple hair, black hair, crossed bangs, pokemon \(creature\)
+pidgeot, pokemon, no humans, red eyes, pokemon \(creature\), bird, talons, mega pokemon, beak
+miraidon, pokemon, no humans, yellow eyes, blue eyes, pokemon \(creature\), black sclera, claws
+natu, pokemon, no humans, black eyes, pokemon \(creature\), bird, beak
+victini, pokemon, no humans, fangs, blue eyes, pokemon \(creature\)
+wishiwashi, pokemon, no humans, 1girl, blue eyes, short hair, blue hair, pokemon \(creature\), fish
+alcremie \(strawberry sweet\), pokemon, no humans, red eyes, pokemon \(creature\)
+unicorn gundam, gundam, no humans, green eyes, mobile suit, v-fin, mecha, nt-d
+mareep, pokemon, no humans, black eyes, pokemon \(creature\), sheep
+nu gundam, gundam, no humans, green eyes, mobile suit, mobile suit, v-fin, beam rifle, mecha
+ninetales, pokemon, no humans, multiple tails, red eyes, blonde hair, pokemon \(creature\)
+budew, pokemon, no humans, black eyes, solid oval eyes, pokemon \(creature\)
+hydreigon, pokemon, no humans, fangs, red eyes, pokemon \(creature\), multiple heads, dragon
+rotom \(normal\), pokemon, no humans, blue eyes, pokemon \(creature\)
+soundwave \(transformers\), transformers, no humans, decepticon, mecha
+pathfinder \(apex legends\), apex legends, no humans, 1boy, one-eyed, humanoid robot
+goodra, pokemon, no humans, purple skin, tail, green eyes, pokemon \(creature\), slime \(substance\), antennae
+pawmi, pokemon, no humans, brown eyes, pokemon \(creature\)
+tyranitar, pokemon, no humans, fangs, pokemon \(creature\), claws
+tinkaton, pokemon, no humans, pink skin, purple eyes, pink hair, pokemon \(creature\)
+crobat, pokemon, no humans, teeth, red eyes, yellow eyes, bat wings, pokemon \(creature\), yellow sclera, bat \(animal\)
+dialga, pokemon, no humans, red eyes, pokemon \(creature\), black sclera
+munna, pokemon, no humans, red eyes, pokemon \(creature\)
+rockruff, pokemon, no humans, fangs, blue eyes, pokemon \(creature\), dog
+gible, pokemon, no humans, sharp teeth, grey eyes, black eyes, hair over one eye, blonde hair, hair ornament, large breasts, pokemon \(creature\)
+bumblebee \(transformers\), transformers, no humans, blue eyes, autobot, mecha
+palkia, pokemon, no humans, red eyes, pokemon \(creature\), black sclera, claws
+trapinch, pokemon, no humans, dark-skinned male, black eyes, black hair, pokemon \(creature\)
+scolipede, pokemon, no humans, horns, yellow eyes, pokemon \(creature\)
+duskull, pokemon, no humans, red eyes, pokemon \(creature\), ghost
+raikou, pokemon, no humans, fangs, red eyes, pokemon \(creature\), claws, tusks
+corsola, pokemon, no humans, blue eyes, hair between eyes, black eyes, medium breasts, pokemon \(creature\)
+dratini, pokemon, no humans, black eyes, pokemon \(creature\)
+gooey \(kirby\), kirby \(series\), no humans
+murkrow, pokemon, no humans, red eyes, white pupils, pokemon \(creature\), bird, claws
+unown, pokemon, no humans, black eyes, pokemon \(creature\), one-eyed
+sceptile, pokemon, no humans, yellow eyes, pokemon \(creature\), claws
+chinchou, pokemon, no humans, yellow eyes, cross-shaped pupils, pokemon \(creature\), antennae, yellow sclera
+swampert, pokemon, no humans, blue skin, two-tone skin, orange eyes, yellow eyes, pokemon \(creature\)
+tatsugiri, pokemon, no humans, black eyes, white pupils, pokemon \(creature\), fish
+bravern, yuuki bakuhatsu bang bravern, no humans, 1boy, green eyes, thick eyebrows, short hair, black hair, v-fin, muscular male, stubble, sideburns stubble, bara, super robot
+bounsweet, pokemon, no humans, yellow eyes, green hair, pokemon \(creature\)
+groudon, pokemon, no humans, sharp teeth, yellow eyes, pokemon \(creature\), claws, spikes
+rattata, pokemon, no humans, red eyes, short hair, pokemon \(creature\)
+cubone, pokemon, no humans, pokemon \(creature\), skull
+teddiursa, pokemon, no humans, brown eyes, black eyes, pokemon \(creature\), claws, bear
+wigglytuff, pokemon, no humans, blue eyes, green eyes, pokemon \(creature\)
+drifblim, pokemon, no humans, red eyes, pokemon \(creature\)
+aipom, pokemon, no humans, teeth, black eyes, blue eyes, pokemon \(creature\), monkey
+ribombee, pokemon, no humans, blonde hair, brown scarf, insect wings, pokemon \(creature\)
+koffing, pokemon, no humans, 1girl, fangs, blue eyes, white hair, short hair, freckles, pokemon \(creature\), topknot, forehead
+sharpedo, pokemon, no humans, 1girl, sharp teeth, red eyes, blue eyes, long hair, blue hair, medium breasts, pokemon \(creature\), shark
+starly, pokemon, no humans, pokemon \(creature\), bird
+poliwag, pokemon, no humans, black eyes, pokemon \(creature\)
+salamence, pokemon, no humans, fangs, red eyes, pokemon \(creature\), claws, dragon
+quilava, pokemon, no humans, red eyes, pokemon \(creature\)
+caterpie, pokemon, no humans, pokemon \(creature\)
+meganium, pokemon, no humans, yellow eyes, pokemon \(creature\), claws
+deoxys, pokemon, no humans, black eyes, pokemon \(creature\), tentacles
+zubat, pokemon, no humans, fangs, pokemon \(creature\)
+chansey, pokemon, no humans, pokemon \(creature\), egg
+giratina \(origin\), pokemon, no humans, red eyes, pokemon \(creature\), black sclera, claws, spikes
+hisuian typhlosion, pokemon, no humans, red eyes, pokemon \(creature\)
+hatenna, pokemon, no humans, hair over eyes, blue hair, pokemon \(creature\)
+articuno, pokemon, no humans, red eyes, pokemon \(creature\), bird, claws
+volcarona, pokemon, no humans, horns, blue eyes, pokemon \(creature\), moth, white fur
+steelix, pokemon, no humans, teeth, red eyes, pokemon \(creature\)
+musharna, pokemon, no humans, eyelashes, pokemon \(creature\)
+bewear, pokemon, no humans, tail, black eyes, pink hair, pokemon \(creature\)
+knight \(hollow knight\), hollow knight, no humans, 1other, horns, black eyes, cloak
+haxorus, pokemon, no humans, red eyes, pokemon \(creature\), claws, shiny pokemon, black sclera
+spheal, pokemon, no humans, fangs, pokemon \(creature\)
+wishiwashi \(solo\), pokemon, no humans, 1girl, blue eyes, short hair, blue hair, pokemon \(creature\), fish
+strelizia, darling in the franxx, no humans, 1girl, single horn, red eyes, pink hair, medium breasts, mecha
+molcar, pui pui molcar, no humans, guinea pig
+empoleon, pokemon, no humans, blue eyes, blue hair, pokemon \(creature\)
+vileplume, pokemon, no humans, red eyes, short hair, pokemon \(creature\)
+vanillite, pokemon, no humans, blue eyes, pokemon \(creature\)
+meowstic, pokemon, no humans, two tails, red eyes, green eyes, short hair, blue hair, pokemon \(creature\), yellow sclera, white fur, body fur
+alakazam, pokemon, no humans, long hair, blunt bangs, pokemon \(creature\)
+zapdos, pokemon, no humans, pokemon \(creature\), bird, claws
+tanuki \(ame to kimi to\), ame to kimi to, no humans, 1girl, mole under eye, short hair, tanuki, leaf on head
+fletchling, pokemon, no humans, pokemon \(creature\), bird
+chimecho, pokemon, no humans, yellow eyes, short hair, pokemon \(creature\)
+polteageist, pokemon, no humans, yellow eyes, purple hair, pokemon \(creature\), teapot
+corviknight, pokemon, no humans, red eyes, pokemon \(creature\), bird, black sclera, talons
+gurren-lagann, tengen toppa gurren lagann, no humans, yellow eyes, super robot, mecha
+mightyena, pokemon, no humans, red eyes, black hair, pokemon \(creature\), yellow sclera, claws
+oricorio, pokemon, no humans, black eyes, pokemon \(creature\), bird
+patamon, digimon, no humans, blue eyes, head wings, wings, digimon \(creature\), creature
+ridley, metroid, no humans, 1girl, monster, sharp teeth, tail, yellow eyes, blue eyes, blonde hair, long hair, ponytail, wings, wings, claws, dragon
+togedemaru, pokemon, no humans, black eyes, pokemon \(creature\)
+galarian ponyta, pokemon, no humans, single horn, blue eyes, long hair, pokemon \(creature\), unicorn
+purrloin, pokemon, no humans, cat ears, cat tail, green eyes, pokemon \(creature\), cat
+dusknoir, pokemon, no humans, red eyes, yellow eyes, pokemon \(creature\), one-eyed
+entei, pokemon, no humans, fangs, red eyes, pokemon \(creature\)
+charmeleon, pokemon, no humans, flame-tipped tail, fangs, tail, pokemon \(creature\), claws
+golisopod, pokemon, no humans, pokemon \(creature\), claws
+xatu, pokemon, no humans, black eyes, green hair, short hair, pokemon \(creature\), bird
+manaphy, pokemon, no humans, blue eyes, pokemon \(creature\), antennae, yellow sclera
+horsea, pokemon, no humans, red eyes, pokemon \(creature\), seahorse
+lampent, pokemon, no humans, yellow eyes, pokemon \(creature\)
+lycanroc \(midnight\), pokemon, no humans, sharp teeth, dog ears, dog tail, red eyes, pink eyes, white hair, black hair, two-tone hair, long hair, pokemon \(creature\), claws, white fur, body fur, red fur, two-tone fur, snout, animal nose, red sclera
+moltres, pokemon, no humans, pokemon \(creature\), bird, claws, talons
+omegamon, digimon, no humans, horns, blue eyes, green eyes, armor, armor, red cape, digimon \(creature\), spikes, mecha, arm cannon
+wailord, pokemon, no humans, 1girl, blue eyes, short hair, ahoge, pokemon \(creature\), whale
+wartortle, pokemon, no humans, fangs, brown eyes, pokemon \(creature\), claws
+lunala, pokemon, no humans, pokemon \(creature\)
+hijikata-san \(m.m\), original, no humans, green eyes, long hair, blonde hair, ponytail, penguin, animal
+farfetch'd, pokemon, no humans, pokemon \(creature\), bird
+lotad, pokemon, no humans, black eyes, pokemon \(creature\)
+swanna, pokemon, no humans, 1girl, blue eyes, red hair, long hair, sidelocks, large breasts, navel, pokemon \(creature\)
+phantump, pokemon, no humans, pink eyes, pokemon \(creature\), shiny pokemon
+nidoking, pokemon, no humans, sharp teeth, single horn, fangs, claws, pokemon \(creature\)
+gabumon, digimon, no humans, single horn, sharp teeth, tail, red eyes, digimon \(creature\), claws
+rapidash, pokemon, no humans, single horn, red eyes, fiery hair, pokemon \(creature\), horse, unicorn
+comfey, pokemon, no humans, green eyes, long hair, green hair, pokemon \(creature\)
+hisuian growlithe, pokemon, no humans, fangs, pokemon \(creature\), claws
+obstagoon, pokemon, no humans, sharp teeth, red eyes, pokemon \(creature\), claws
+croagunk, pokemon, no humans, teeth, pokemon \(creature\)
+cleffa, pokemon, no humans, black eyes, pokemon \(creature\)
+beedrill, pokemon, no humans, red eyes, pokemon \(creature\), antennae, bee
+wailmer, pokemon, no humans, 1girl, short hair, legs, pokemon \(creature\)
+swirlix, pokemon, no humans, blue eyes, pink eyes, long hair, pokemon \(creature\)
+paldean wooper, pokemon, no humans, black eyes, white pupils, long hair, pokemon \(creature\)
+aggron, pokemon, no humans, horns, blue eyes, pokemon \(creature\), claws
+mazinger z \(mecha\), mazinger \(series\), no humans, yellow eyes, super robot
+palmon, digimon, no humans, green skin, sharp teeth, brown eyes, brown hair, long hair, digimon \(creature\)
+xi gundam, gundam, no humans, green eyes, glowing eyes, mobile suit, mobile suit, v-fin, mecha
+duraludon, pokemon, no humans, 1boy, dark-skinned male, green eyes, short hair, black hair, earrings, pokemon \(creature\), undercut, yellow sclera
+silver chariot, jojo no kimyou na bouken, no humans, 1boy, blue eyes, grey hair, armor, armor, earrings, flattop, rapier
+hoothoot, pokemon, no humans, pokemon \(creature\), owl, shiny pokemon
+roselia \(pokemon\), pokemon, no humans, eyelashes, green hair, short hair, pokemon \(creature\)
+taranza, kirby \(series\), no humans, 1boy, dark-skinned male, dark skin, horns, yellow horns, extra eyes, yellow eyes, solid oval eyes, v-shaped eyebrows, white hair, short hair, blunt bangs, ahoge, white gloves, green cape, green vest, disembodied hand, blunt ends, rayman limbs,
+turn a gundam \(mobile suit\), gundam, no humans, yellow eyes, mobile suit, mobile suit, mecha
+shuppet, pokemon, no humans, single horn, blue eyes, pokemon \(creature\)
+shellder, pokemon, no humans, tongue, black eyes, pokemon \(creature\)
+delibird, pokemon, no humans, black eyes, white hair, long hair, pokemon \(creature\)
+godzilla \(shin\), godzilla \(series\), no humans, monster, sharp teeth, tail, claws
+zacian, pokemon, no humans, fangs, yellow eyes, pokemon \(creature\), claws
+beautifly, pokemon, no humans, blue eyes, pokemon \(creature\), butterfly, antennae
+xenomorph, alien \(series\), no humans, 1girl, monster, tail, alien
+kamishirasawa keine \(hakutaku\), touhou, no humans, 1girl, tail, horns, horn ribbon, solid circle eyes, red eyes, long hair, green hair, sukusuku hakutaku
+tangela, pokemon, no humans, black eyes, pokemon \(creature\), tentacles
+bidoof, pokemon, no humans, pokemon \(creature\)
+torterra, pokemon, no humans, red eyes, brown eyes, pokemon \(creature\), spikes
+zebstrika, pokemon, no humans, 1girl, blue eyes, white hair, pokemon \(creature\), yellow sclera
+torkoal, pokemon, no humans, red eyes, red hair, long hair, ponytail, large breasts, navel, pokemon \(creature\), crop top
+golbat, pokemon, no humans, fangs, wings, wings, pokemon \(creature\)
+silvally, pokemon, no humans, grey eyes, white pupils, pokemon \(creature\), chimera, claws
+poochyena, pokemon, no humans, red eyes, yellow sclera, pokemon \(creature\)
+emboar, pokemon, no humans, red eyes, blue eyes, brown hair, long hair, high ponytail, large breasts, pokemon \(creature\)
+vivillon, pokemon, no humans, black eyes, pokemon \(creature\), butterfly, gym leader badge
+gundam barbatos, gundam, no humans, green eyes, glowing eyes, mobile suit, mobile suit, v-fin, mecha
+terriermon, digimon, no humans, single horn, digimon \(creature\)
+spiritomb, pokemon, no humans, green eyes, pokemon \(creature\)
+zygarde, pokemon, no humans, pokemon \(creature\), dog
+minior, pokemon, no humans, short hair, pokemon \(creature\)
+tatsugiri \(curly\), pokemon, no humans, black eyes, white pupils, pokemon \(creature\), fish
+pawmot, pokemon, no humans, brown eyes, pokemon \(creature\), orange fur
+gundam exia, gundam, no humans, green eyes, mobile suit, v-fin, mecha musume, mecha
+bellossom, pokemon, no humans, pokemon \(creature\)
+azurill, pokemon, no humans, blue eyes, blue hair, pokemon \(creature\)
+staraptor, pokemon, no humans, red eyes, white pupils, black hair, pokemon \(creature\), bird, talons, beak
+liepard, pokemon, no humans, 1girl, tail, green eyes, purple hair, large breasts, pokemon \(creature\)
+transformed ditto, pokemon, no humans, black eyes, pokemon \(creature\), slime \(substance\)
+skarmory, pokemon, no humans, sharp teeth, yellow eyes, pokemon \(creature\), claws, bird, yellow sclera, talons
+aerodactyl, pokemon, no humans, sharp teeth, green eyes, wings, pokemon \(creature\), claws
+porygon-z, pokemon, no humans, single horn, yellow eyes, pokemon \(creature\)
+drizzile, pokemon, no humans, black eyes, pokemon \(creature\)
+honchkrow, pokemon, no humans, red eyes, pokemon \(creature\), bird
+gundam mk ii, gundam, no humans, green eyes, blue eyes, mobile suit, mobile suit, v-fin, beam rifle, mecha
+giratina \(altered\), pokemon, no humans, red eyes, pokemon \(creature\), black sclera, alternate form
+breloom, pokemon, no humans, black eyes, brown eyes, pokemon \(creature\), claws
+samurott, pokemon, no humans, beard, fangs, red eyes, white hair, pokemon \(creature\)
+skiploom, pokemon, no humans, red eyes, pokemon \(creature\)
+kingdra, pokemon, no humans, horns, red eyes, pokemon \(creature\), seahorse
+weedle, pokemon, no humans, single horn, black eyes, pokemon \(creature\)
+togetic, pokemon, no humans, black eyes, pokemon \(creature\)
+clefable, pokemon, no humans, pink hair, pokemon \(creature\)
+omanyte, pokemon, no humans, black eyes, pokemon \(creature\), tentacles, shell
+gm \(mobile suit\), gundam, no humans, mobile suit, mobile suit, shield, mecha
+buizel, pokemon, no humans, black eyes, brown eyes, pokemon \(creature\), whisker markings
+hornet \(hollow knight\), hollow knight, no humans, 1girl, arthropod girl, black skin, horns, black eyes, red cloak
+drednaw, pokemon, no humans, 1girl, dark-skinned female, blue eyes, black eyes, blue eyeshadow, two-tone hair, blue hair, black hair, long hair, single hair bun, hoop earrings, pokemon \(creature\), claws, crop top
+gomamon, digimon, no humans, white skin, fangs, tail, green eyes, red hair, digimon \(creature\), claws
+shuckle, pokemon, no humans, black eyes, pokemon \(creature\)
+victreebel, pokemon, no humans, fangs, black eyes, pokemon \(creature\)
+pancham, pokemon, no humans, blue eyes, pokemon \(creature\), panda
+lunatone, pokemon, no humans, red eyes, pokemon \(creature\), black sclera
+nidoran, pokemon, no humans, single horn, red eyes, pokemon \(creature\)
+paras, pokemon, no humans, black eyes, orange hair, long hair, pokemon \(creature\)
+weezing, pokemon, no humans, fangs, pokemon \(creature\), tusks
+gourgeist, pokemon, no humans, 1girl, yellow eyes, hair over one eye, pink hair, very long hair, long hair, ahoge, pokemon \(creature\)
+sdf-1, macross, no humans, long hair, energy cannon, u.n. spacy, mecha, u.n. spacy
+cherubi, pokemon, no humans, blue eyes, blonde hair, pokemon \(creature\)
+wargreymon, digimon, no humans, orange skin, horns, green eyes, red hair, short hair, armor, helmet, armor, mechanical wings, digimon \(creature\), claws, dragon, spikes
+tropius, pokemon, no humans, black eyes, pokemon \(creature\)
+seviper, pokemon, no humans, fangs, red eyes, black hair, red hair, pokemon \(creature\), snake
+lycanroc \(midday\), pokemon, no humans, blue eyes, pokemon \(creature\), claws
+brionne, pokemon, no humans, fang, blue eyes, pokemon \(creature\)
+calyrex, pokemon, no humans, grey eyes, blue eyes, pokemon \(creature\)
+shedinja, pokemon, no humans, black eyes, halo, pokemon \(creature\), bug
+tentacruel, pokemon, no humans, 1girl, long hair, pokemon \(creature\), tentacles
+scraggy, pokemon, no humans, black eyes, pokemon \(creature\)
+talonflame, pokemon, no humans, yellow eyes, pokemon \(creature\), bird, talons, beak
+politoed, pokemon, no humans, pokemon \(creature\)
+grovyle, pokemon, no humans, yellow eyes, pokemon \(creature\), yellow sclera
+swadloon, pokemon, no humans, black eyes, white pupils, pokemon \(creature\)
+zaku ii s char custom, gundam, no humans, glowing eye, mobile suit, mobile suit, one-eyed, zeon, mecha, zeon
+robo \(chrono trigger\), chrono trigger, no humans, green eyes, blue eyes, short hair, robot
+mesprit, pokemon, no humans, two-tone skin, two tails, yellow eyes, pokemon \(creature\), forehead jewel
+kyurem, pokemon, no humans, sharp teeth, yellow eyes, pokemon \(creature\), claws, yellow sclera, dragon
+sazabi, gundam, no humans, green eyes, glowing eye, mobile suit, mobile suit, shield, beam rifle, one-eyed, mecha
+flaaffy, pokemon, no humans, black eyes, pokemon \(creature\)
+smoliv, pokemon, no humans, black eyes, white pupils, pokemon \(creature\)
+voltorb, pokemon, no humans, 1girl, long hair, brown hair, sidelocks, pokemon \(creature\)
+porygon, pokemon, no humans, black eyes, pokemon \(creature\), bird
+deerling, pokemon, no humans, pink hair, pokemon \(creature\), deer
+gipsy danger, pacific rim, no humans, long hair
+galarian zigzagoon, pokemon, no humans, black hair, pokemon \(creature\), claws
+grim \(twisted wonderland\), twisted wonderland, no humans, 1boy, demon tail, cat ears, blue eyes, hair between eyes, black hair, virtual youtuber, cat, blue sclera, creature
+rathalos, monster hunter \(series\), no humans, 1girl, monster, sharp teeth, blue eyes, wings, wyvern, claws, dragon
+ichijou hikaru, macross, no humans, brown hair, reverse-jointed legs, pilot suit, pilot suit, energy cannon, u.n. spacy, u.n. spacy, mecha
+lanturn, pokemon, no humans, red eyes, pokemon \(creature\), fish
+frillish, pokemon, no humans, red eyes, blue eyes, pokemon \(creature\)
+mareanie, pokemon, no humans, fangs, blue eyes, green eyes, long hair, blue hair, pokemon \(creature\), yellow sclera
+sunflora, pokemon, no humans, green hair, short hair, pokemon \(creature\)
+hong meiling \(panda\), touhou, no humans, 1girl, hat, panda, star \(symbol\)
+tauros, pokemon, no humans, dark-skinned female, horns, short hair, large breasts, ass, pokemon \(creature\), bull
+dewgong, pokemon, no humans, single horn, fangs, blue eyes, short hair, pokemon \(creature\)
+deoxys \(normal\), pokemon, no humans, black eyes, pokemon \(creature\), tentacles, black sclera
+gastrodon, pokemon, no humans, black eyes, grey eyes, blonde hair, pokemon \(creature\), slug
+sudowoodo, pokemon, no humans, black eyes, blue eyes, blue hair, medium breasts, pokemon \(creature\)
+beldum, pokemon, no humans, red eyes, pokemon \(creature\), one-eyed, black sclera
+lycanroc \(dusk\), pokemon, no humans, green eyes, red eyes, long hair, white hair, orange hair, pokemon \(creature\), claws
+frosmoth, pokemon, no humans, blue eyes, colored eyelashes, white hair, long sleeves, pokemon \(creature\), moth
+electrode \(pokemon\), pokemon, no humans, long hair, pokemon \(creature\)
+chatot, pokemon, no humans, black eyes, long hair, pokemon \(creature\), bird
+pidgeotto, pokemon, no humans, pokemon \(creature\), bird, talons
+azelf, pokemon, no humans, yellow eyes, red eyes, pokemon \(creature\), forehead jewel, red gemstone
+bayleef, pokemon, no humans, red eyes, pokemon \(creature\)
+heracross, pokemon, no humans, pokemon \(creature\), claws
+diancie, pokemon, no humans, animal ears, red eyes, pink eyes, pink hair, long hair, pokemon \(creature\), mega pokemon, red sclera, pink gemstone
+cherrim, pokemon, no humans, red eyes, short hair, black hair, pink hair, two-tone hair, sidelocks, pokemon \(creature\)
+meowstic \(male\), pokemon, no humans, green eyes, short hair, white hair, pokemon \(creature\), blue fur, white fur, blue sclera
+metapod, pokemon, no humans, black eyes, pokemon \(creature\)
+dugtrio, pokemon, no humans, 1girl, brown eyes, brown hair, short hair, long hair, swept bangs, bob cut, medium breasts, navel, sweat, toes, pokemon \(creature\), starter pokemon trio, steaming body, soles
+sandshrew, pokemon, no humans, black eyes, pokemon \(creature\), claws
+kecleon, pokemon, no humans, black eyes, pokemon \(creature\)
+swinub, pokemon, no humans, short hair, pokemon \(creature\)
+floette, pokemon, no humans, black eyes, pokemon \(creature\)
+alolan ninetales, pokemon, no humans, blue eyes, long hair, pokemon \(creature\)
+gridman \(ssss\), gridman universe, no humans, blue eyes, yellow eyes, long hair, black hair, school uniform, armor, mecha
+woobat, pokemon, no humans, 1girl, blue eyes, hair over one eye, large breasts, pokemon \(creature\), bat \(animal\)
+cofagrigus, pokemon, no humans, 1girl, sharp teeth, red eyes, blue eyes, glowing eyes, black hair, pokemon \(creature\), mummy
+alcremie \(vanilla cream\), pokemon, no humans, red eyes, white hair, pokemon \(creature\)
+magneton, pokemon, no humans, pokemon \(creature\), screw, magnet
+eldegoss, pokemon, no humans, brown eyes, pokemon \(creature\)
+slowbro, pokemon, no humans, fangs, black eyes, pink hair, pokemon \(creature\), claws
+cresselia, pokemon, no humans, purple eyes, pokemon \(creature\)
+drowzee, pokemon, no humans, black eyes, brown hair, pokemon \(creature\)
+sinistea, pokemon, no humans, 1girl, pokemon \(creature\), teacup
+ponyta, pokemon, no humans, fiery tail, brown eyes, long hair, fiery hair, pokemon \(creature\), horse, shiny pokemon
+mega charizard x, pokemon, no humans, flame-tipped tail, fangs, red eyes, mega pokemon, claws, pokemon \(creature\), dragon
+qubeley, gundam, no humans, 1girl, pink hair, short hair, mobile suit, mecha
+octillery, pokemon, no humans, black eyes, pokemon \(creature\), octopus
+regice, pokemon, no humans, yellow eyes, pokemon \(creature\), ice
+hoopa, pokemon, no humans, sharp teeth, green eyes, white pupils, pink hair, pokemon \(creature\)
+yamask, pokemon, no humans, red eyes, pokemon \(creature\)
+eiscue, pokemon, no humans, pokemon \(creature\), penguin
+canti, flcl, no humans, short hair
+jellicent, pokemon, no humans, red eyes, blue eyes, pokemon \(creature\), crown
+konnosuke, touken ranbu, no humans, 1boy, blue eyes, blonde hair, long hair, fox
+shockwave \(transformers\), transformers, no humans, yellow eyes, hair over one eye, purple hair, large breasts, decepticon, one-eyed, mecha, arm cannon
+abra, pokemon, no humans, tail, red eyes, long hair, blunt bangs, pokemon \(creature\)
+registeel, pokemon, no humans, red eyes, glowing eyes, pokemon \(creature\)
+uxie, pokemon, no humans, yellow skin, two-tone skin, pokemon \(creature\), forehead jewel, red gemstone
+zigzagoon, pokemon, no humans, black eyes, brown eyes, yellow eyes, pokemon \(creature\), claws
+yveltal, pokemon, no humans, horns, blue eyes, wings, pokemon \(creature\), claws, talons
+dom \(mobile suit\), gundam, no humans, holding gun, red eyes, pink eyes, glowing eye, mobile suit, mobile suit, one-eyed, zeon, mecha, zeon, bazooka \(gundam\)
+castform, pokemon, no humans, pokemon \(creature\)
+scyther, pokemon, no humans, fangs, insect wings, pokemon \(creature\), claws
+deviljho, monster hunter \(series\), no humans, 1girl, monster, sharp teeth, tail, red eyes, green hair, navel, claws, dinosaur, spikes
+king ghidorah, godzilla \(series\), no humans, monster, dragon horns, sharp teeth, fangs, dragon tail, red eyes, blonde hair, dragon wings, dragon wings, dragon, multiple heads, scales, claws
+cubchoo, pokemon, no humans, blue eyes, eyelashes, medium hair, blue hair, single hair bun, long sleeves, pokemon \(creature\), bear
+nidoran \(male\), pokemon, no humans, single horn, red eyes, pokemon \(creature\)
+zero two \(kirby\), kirby \(series\), no humans, tail, red eyes, long hair, halo, wings, one-eyed, red sclera
+noivern, pokemon, no humans, yellow eyes, pokemon \(creature\), claws
+fidough, pokemon, no humans, brown eyes, pokemon \(creature\), dog
+rajang, monster hunter \(series\), no humans, 1girl, monster, monster girl, horns, tail, pointy ears, sharp teeth, red eyes, hair between eyes, blonde hair, long hair, medium breasts, large breasts
+dusclops, pokemon, no humans, red eyes, pokemon \(creature\), one-eyed
+marshtomp, pokemon, no humans, orange eyes, open-chest sweater, cleavage cutout, ribbed sweater, turtleneck, pokemon \(creature\)
+dark matter \(kirby\), kirby \(series\), no humans, red eyes, black hair, long hair, one-eyed
+wurmple, pokemon, no humans, black eyes, yellow eyes, pokemon \(creature\)
+dream tiger \(govy9807\), original, no humans, monster, sharp teeth, yellow eyes, constricted pupils, tiger, tusks, claws, yellow sclera
+cacnea, pokemon, no humans, blue hair, short hair, pokemon \(creature\)
+scopedog, soukou kihei votoms, no humans, holding gun, mecha, radio antenna
+glalie, pokemon, no humans, 1girl, horns, blue eyes, pokemon \(creature\)
+porygon2, pokemon, no humans, black eyes, pokemon \(creature\)
+v-mon, digimon, no humans, fangs, tail, single horn, red eyes, digimon \(creature\), claws
+cramorant, pokemon, no humans, green eyes, pokemon \(creature\), bird
+greedent, pokemon, no humans, black eyes, brown hair, short hair, pokemon \(creature\)
+glameow, pokemon, no humans, blue eyes, pokemon \(creature\), yellow sclera, cat, whiskers, grey fur
+alolan meowth, pokemon, no humans, fangs, cat tail, pokemon \(creature\), cat, whiskers, coin
+persian \(pokemon\), pokemon, no humans, red eyes, blonde hair, short hair, cat, pokemon \(creature\), forehead jewel, claws
+eelektross, pokemon, no humans, red eyes, long hair, ponytail, pokemon \(creature\), claws
+guncannon, gundam, no humans, blue eyes, hair over shoulder, ahoge, single braid, mobile suit, mobile suit, shoulder cannon, mecha
+ekans, pokemon, no humans, yellow eyes, pokemon \(creature\), snake
+noctowl, pokemon, no humans, red eyes, pokemon \(creature\), owl
+spinda, pokemon, no humans, red eyes, pokemon \(creature\)
+solgaleo, pokemon, no humans, blue eyes, pokemon \(creature\)
+galarian farfetch'd, pokemon, no humans, brown eyes, v-shaped eyebrows, thick eyebrows, pokemon \(creature\), duck
+hisuian decidueye, pokemon, no humans, brown eyes, yellow eyes, red pupils, feather hair, feathered wings, bird wings, feathered wings, bird wings, pokemon \(creature\), winged arms, owl, beak, talons, winged arms, plume, red feathers, white feathers
+escavalier, pokemon, no humans, yellow eyes, red eyes, armor, pokemon \(creature\), lance, plume
+centiskorch, pokemon, no humans, pokemon \(creature\), gigantamax, centipede
+doduo, pokemon, no humans, black eyes, blue eyes, long hair, black hair, ponytail, large breasts, pokemon \(creature\), bird
+hydrapple, pokemon, no humans, 1boy, green skin, horns, tongue, yellow eyes, purple hair, black hair, multicolored hair, mole on neck, white shorts, open jacket, print shirt, white jacket, red shirt, long sleeves, pokemon \(creature\), multiple heads, worm, yellow sclera
+cloyster, pokemon, no humans, pokemon \(creature\), spikes
+dewott, pokemon, no humans, animal ears, black eyes, pokemon \(creature\), blue fur, body fur, black fur, whiskers
+poipole, pokemon, no humans, blue eyes, pokemon \(creature\)
+regigigas, pokemon, no humans, red eyes, pokemon \(creature\)
+archeops, pokemon, no humans, fangs, black eyes, wings, pokemon \(creature\), claws, bird, talons
+komajirou, youkai watch, no humans, youkai \(youkai watch\), furoshiki
+xerneas, pokemon, no humans, horns, blue eyes, blue hair, antlers, pokemon \(creature\)
+jynx, pokemon, no humans, purple skin, lips, long hair, blonde hair, pokemon \(creature\)
+getter-1, getter robo, no humans, yellow eyes, super robot, mecha
+blissey, pokemon, no humans, black eyes, pink hair, pokemon \(creature\), egg
+masquerain, pokemon, no humans, black eyes, white pupils, pokemon \(creature\)
+exeggutor, pokemon, no humans, fangs, sharp teeth, pokemon \(creature\), claws, multiple heads
+yanma, pokemon, no humans, blue eyes, pokemon \(creature\), bug
+galvantula, pokemon, no humans, blue eyes, pokemon \(creature\), spider, yellow fur
+furfrou, pokemon, no humans, red eyes, pokemon \(creature\), dog
+galarian rapidash, pokemon, no humans, single horn, green eyes, blue eyes, pokemon \(creature\), unicorn
+god gundam, gundam, no humans, green eyes, glowing eyes, v-fin, mecha, super robot
+gouf, gundam, no humans, glowing eye, mobile suit, mobile suit, shoulder spikes, one-eyed, zeon, mecha, zeon
+parasect, pokemon, no humans, pokemon \(creature\)
+larvesta, pokemon, no humans, blue eyes, pokemon \(creature\), white fur, bug
+venipede, pokemon, no humans, yellow eyes, black eyes, pokemon \(creature\), bug, yellow sclera
+detective pikachu \(character\), pokemon, no humans, clothed pokemon, deerstalker
+zz gundam, gundam, no humans, green eyes, mobile suit, mobile suit, v-fin, mecha
+venonat, pokemon, no humans, fangs, red eyes, pokemon \(creature\), antennae
+sawsbuck, pokemon, no humans, brown eyes, pokemon \(creature\), deer
+krabby, pokemon, no humans, 1girl, blue eyes, purple eyes, black eyes, short hair, purple hair, small breasts, collarbone, pokemon \(creature\), team magma, wet, rock
+wiglett, pokemon, no humans, 1girl, black eyes, sweat, pokemon \(creature\)
+pincurchin, pokemon, no humans, yellow eyes, long hair, black hair, pokemon \(creature\), spikes
+skeledirge, pokemon, no humans, tongue, yellow eyes, pokemon \(creature\), black sclera, claws
+great grey wolf sif, dark souls \(series\), no humans, wolf, animal, greatsword
+freedom gundam, gundam, no humans, holding gun, yellow eyes, mobile suit, mobile suit, v-fin, mechanical wings, mechanical wings, mecha
+cinccino, pokemon, no humans, black eyes, pokemon \(creature\), fluffy
+pikipek, pokemon, no humans, blue eyes, pokemon \(creature\), bird
+tatsugiri \(droopy\), pokemon, no humans, black eyes, white pupils, pokemon \(creature\), fish, shiny pokemon
+seaking, pokemon, no humans, fangs, single horn, black eyes, brown eyes, black hair, long hair, pokemon \(creature\), fish
+manectric, pokemon, no humans, fangs, red eyes, pokemon \(creature\), claws
+gloom \(pokemon\), pokemon, no humans, drooling, saliva, pokemon \(creature\)
+vf-1j, macross, no humans, u.n. spacy, mecha, u.n. spacy, roundel, reactive armor
+servine, pokemon, no humans, tail, red eyes, slit pupils, pokemon \(creature\)
+eiscue \(ice\), pokemon, no humans, pokemon \(creature\), penguin
+toxel, pokemon, no humans, toes, pokemon \(creature\)
+magnezone, pokemon, no humans, red eyes, grey hair, short hair, pokemon \(creature\), magnet
+galacta knight, kirby \(series\), no humans, angel wings, angel wings, horns, red eyes, mask, white wings, feathered wings, white wings, feathered wings, lance, pauldrons
+greymon, digimon, no humans, monster, horns, sharp teeth, tail, red eyes, digimon \(creature\), claws, dinosaur
+braviary, pokemon, no humans, pokemon \(creature\), bird, talons
+marshadow, pokemon, no humans, orange eyes, pokemon \(creature\)
+hi-nu gundam, gundam, no humans, holding gun, yellow eyes, green eyes, mobile suit, mobile suit, v-fin, beam rifle, shield, mecha
+av-98 ingram, kidou keisatsu patlabor, no humans, police, mecha, police, radio antenna
+00 gundam, gundam, no humans, blue eyes, green eyes, glowing eyes, mobile suit, v-fin, mecha
+deino \(pokemon\), pokemon, no humans, hair over eyes, short hair, black hair, pokemon \(creature\)
+g-self, gundam, no humans, yellow eyes, mobile suit, mobile suit, mecha
+deemo \(character\), deemo, no humans, brown hair, long hair
+boney, mother \(game\), no humans, 1boy, solid oval eyes, short hair, blonde hair, striped shirt, striped clothes, blue shorts, short sleeves, dog, animal
+hitmonlee, pokemon, no humans, pokemon \(creature\), claws, black sclera
+guilmon, digimon, no humans, red skin, tail, sharp teeth, yellow eyes, digimon \(creature\), claws
+tapu lele, pokemon, no humans, black skin, blue eyes, pink eyes, multicolored eyes, green eyes, pink hair, long hair, hat, pokemon \(creature\)
+vf-1s, macross, no humans, holding gun, energy cannon, u.n. spacy, mecha, u.n. spacy, jolly roger, missile pod, roundel
+regirock, pokemon, no humans, glowing eyes, pokemon \(creature\), rock
+dukemon, digimon, no humans, horns, yellow eyes, full armor, armor, red cape, helmet, shoulder armor, digimon \(creature\), knight, lance, knight
+zinogre, monster hunter \(series\), no humans, monster girl, monster, horns, tail, sharp teeth, blue eyes, claws, scales
+ogerpon \(teal mask\), pokemon, no humans, fangs, yellow eyes, star-shaped pupils, pokemon \(creature\)
+gundam calibarn, gundam, no humans, holding gun, green eyes, glowing eyes, mobile suit, mobile suit, v-fin, beam cannon, energy cannon, mecha, thrusters
+dipplin, pokemon, no humans, yellow eyes, black eyes, black hair, pokemon \(creature\)
+zacian \(crowned\), pokemon, no humans, fangs, yellow eyes, pokemon \(creature\), claws
+dark meta knight, kirby \(series\), no humans, 1boy, yellow eyes, mask, red footwear, bat wings, torn wings, black wings, bat wings
+hawlucha, pokemon, no humans, yellow eyes, green hair, pokemon \(creature\), claws
+oricorio \(pom-pom\), pokemon, no humans, black eyes, blonde hair, pokemon \(creature\), bird, cheerleader, pom pom \(cheerleading\)
+buzzwole, pokemon, no humans, insect wings, pokemon \(creature\), muscular, antennae
+shin getter-1, getter robo, no humans, yellow eyes, super robot
+hattrem, pokemon, no humans, black eyes, white pupils, blue hair, long hair, pokemon \(creature\)
+kakuna, pokemon, no humans, brown eyes, black eyes, white pupils, pokemon \(creature\)
+panda meiling \(seki \(red shine\)\), touhou, no humans, hat, panda, star \(symbol\)
+zenyatta \(overwatch\), overwatch, no humans, 1boy, monk, orb, humanoid robot, clothed robot, monk
+happiny, pokemon, no humans, black eyes, pokemon \(creature\), egg
+gundam aerial rebuild, gundam, no humans, green eyes, glowing eyes, mobile suit, mobile suit, v-fin, mecha
+grimlock, transformers, no humans, sharp teeth, red eyes, autobot, claws, dinosaur, mecha
+combusken, pokemon, no humans, orange eyes, pokemon \(creature\), claws, talons, beak, bird
+lumineon, pokemon, no humans, red eyes, pink eyes, blue hair, long hair, black hair, pokemon \(creature\), fish
+toucannon, pokemon, no humans, blue eyes, black eyes, black hair, pokemon \(creature\), bird
+gliscor, pokemon, no humans, fangs, sharp teeth, yellow eyes, pokemon \(creature\)
+marowak, pokemon, no humans, large breasts, pokemon \(creature\), skull
+magearna, pokemon, no humans, pink eyes, pokemon \(creature\), rabbit
+sandygast, pokemon, no humans, pokemon \(creature\), sand, shovel, beach
+greavard, pokemon, no humans, skin fang, pokemon \(creature\), dog, candle
+golurk, pokemon, no humans, yellow eyes, pokemon \(creature\), golem
+flabebe, pokemon, no humans, blonde hair, pokemon \(creature\)
+slurpuff, pokemon, no humans, pink eyes, pink hair, pokemon \(creature\)
+pecharunt, pokemon, no humans, pokemon \(creature\)
+kadabra, pokemon, no humans, mustache, purple eyes, long hair, pokemon \(creature\), claws, star \(symbol\), spoon
+elekid, pokemon, no humans, pokemon \(creature\), claws
+destiny gundam, gundam, no humans, green eyes, mobile suit, mobile suit, v-fin, mechanical wings, energy wings, mechanical wings, mecha
+vivillon \(meadow\), pokemon, no humans, black eyes, large breasts, pink wings, pokemon \(creature\), butterfly, antennae
+queen sectonia, kirby \(series\), no humans, 1girl, horns, pink eyes, eyelashes, white hair, white gloves, insect wings, yellow wings, insect wings, antennae, rayman limbs, disembodied hand, crown, heart
+dartrix, pokemon, no humans, curtained hair, feathered wings, pokemon \(creature\), beak, owl
+zamazenta, pokemon, no humans, sharp teeth, yellow eyes, red eyes, pokemon \(creature\), dog, claws
+type 00 takemikazuchi, muv-luv, no humans, purple eyes, very long hair, large breasts, pilot suit, fortified suit, tactical surface fighter
+swellow, pokemon, no humans, pokemon \(creature\), bird
+f91 gundam, gundam, no humans, blue eyes, mobile suit, mobile suit, v-fin, mecha
+cosplay pikachu, pokemon, no humans, clothed pokemon
+cradily, pokemon, no humans, yellow eyes, pokemon \(creature\), tentacles
+luxio, pokemon, no humans, yellow eyes, pokemon \(creature\)
+stufful, pokemon, no humans, short hair, pokemon \(creature\)
+torracat, pokemon, no humans, cat tail, cat ears, fangs, fang, black hair, two-tone hair, pokemon \(creature\), yellow sclera, claws, red fur
+appletun, pokemon, no humans, green hair, pokemon \(creature\)
+sinistcha, pokemon, no humans, 1girl, yellow eyes, hair between eyes, mole under eye, eyelashes, black hair, red hair, two-tone hair, long hair, colored inner hair, crossed bangs, long sleeves, wide sleeves, pokemon \(creature\)
+dodrio, pokemon, no humans, tongue, pokemon \(creature\), bird, multiple heads
+medicham, pokemon, no humans, shiny skin, lips, black eyes, blue eyes, large breasts, navel piercing, navel, pokemon \(creature\)
+tapu koko, pokemon, no humans, black skin, blue eyes, pokemon \(creature\), beak, mohawk, plume
+minior \(core\), pokemon, no humans, short hair, pink hair, pokemon \(creature\)
+lopmon, digimon, no humans, horns, single horn, brown eyes, black eyes, digimon \(creature\)
+ninjask, pokemon, no humans, red eyes, bug, pokemon \(creature\)
+00 qan[t], gundam, no humans, green eyes, blue eyes, mobile suit, mobile suit, v-fin, mecha musume, mecha
+noibat, pokemon, no humans, yellow eyes, pokemon \(creature\), bat \(animal\), shiny pokemon
+bahamut \(final fantasy\), final fantasy, no humans, monster, wings, dragon, claws
+mudsdale, pokemon, no humans, black hair, long hair, pokemon \(creature\), horse
+scream tail, pokemon, no humans, fangs, tongue, yellow eyes, pokemon \(creature\)
+vanilluxe, pokemon, no humans, mouth drool, blue eyes, hair between eyes, long hair, white hair, pokemon \(creature\)
+void termina, kirby \(series\), no humans, horns, muscular
+hyaku shiki, gundam, no humans, blue eyes, blonde hair, mobile suit, mobile suit, beam rifle, mecha musume, mecha
+kampfer \(mobile suit\), gundam, no humans, holding gun, single horn, glowing eye, mobile suit, mobile suit, one-eyed, zeon, mecha
+electivire, pokemon, no humans, teeth, red eyes, pokemon \(creature\), yellow fur
+omastar, pokemon, no humans, yellow eyes, pokemon \(creature\), tentacles, spikes, shell
+nargacuga, monster hunter \(series\), no humans, 1girl, monster, tail, red eyes, yellow eyes, glowing eyes, black hair, claws
+cursola, pokemon, no humans, pink eyes, purple eyes, white pupils, pokemon \(creature\)
+zeong, gundam, no humans, pink eyes, glowing eye, one-eyed, zeon, mecha
+poporing, ragnarok online, no humans, 1girl, short hair, slime \(creature\)
+bronzong, pokemon, no humans, 1girl, red eyes, blue hair, pokemon \(creature\)
+metalgreymon, digimon, no humans, horns, sharp teeth, tail, yellow eyes, red hair, helmet, torn wings, torn wings, digimon \(creature\), claws, single mechanical arm, dinosaur, cyborg
+slither wing, pokemon, no humans, horns, yellow eyes, cross-shaped pupils, pokemon \(creature\), white fur, moth
+galarian corsola, pokemon, no humans, pink eyes, white pupils, pokemon \(creature\)
+klefki, pokemon, no humans, 1girl, long hair, blonde hair, pokemon \(creature\), key
+alolan marowak, pokemon, no humans, pokemon \(creature\)
+terapagos, pokemon, no humans, blue eyes, green eyes, long hair, pokemon \(creature\), magical girl, crystal, gem, unofficial precure costume
+strike gundam, gundam, no humans, yellow eyes, glowing eyes, mobile suit, mobile suit, v-fin, mechanical wings, mecha
+celesteela, pokemon, no humans, aqua hair, very long hair, blunt bangs, pokemon \(creature\)
+hyness, kirby \(series\), no humans, 1boy, mouth veil, yellow eyes, glowing eyes, white robe, white cloak, white robe, sleeves past fingers, very long sleeves, white hood, hood up, long sleeves, gold trim
+girafarig, pokemon, no humans, horns, blue eyes, blue hair, long hair, pokemon \(creature\)
+yanmega, pokemon, no humans, red eyes, pokemon \(creature\), bug
+pet shop, jojo no kimyou na bouken, no humans, 1boy, blonde hair, helmet, falcon, eagle
+xurkitree, pokemon, no humans, pokemon \(creature\), claws, spikes, cable
+dunbine, seisenshi dunbine, no humans, red eyes, insect wings, insect wings, mecha
+charles babbage \(fate\), fate/grand order, no humans, mecha
+dracovish, pokemon, no humans, grey eyes, blue hair, short hair, red headwear, pokemon \(creature\), claws
+potato \(pui pui molcar\), pui pui molcar, no humans, blue eyes, short hair, guinea pig
+flutter mane, pokemon, no humans, skin fang, yellow eyes, pokemon \(creature\), red sclera
+cacturne, pokemon, no humans, green skin, yellow eyes, pokemon \(creature\), black sclera
+mega rayquaza, pokemon, no humans, fangs, red eyes, mega pokemon, pokemon \(creature\), claws, black sclera, dragon, eastern dragon
+sigilyph, pokemon, no humans, blue eyes, pokemon \(creature\)
+wing gundam zero custom, gundam, no humans, green eyes, mobile suit, v-fin, mechanical wings, wings, mechanical wings, mecha musume, mecha
+cherno alpha, pacific rim, no humans, 1girl, short hair, mecha musume, mechanical arms
+gundam alex, gundam, no humans, green eyes, mobile suit, mobile suit, v-fin, mecha
+electabuzz, pokemon, no humans, fangs, black eyes, pokemon \(creature\), claws
+kabutops, pokemon, no humans, pokemon \(creature\), claws, blade
+tigrex, monster hunter \(series\), no humans, 1girl, monster, tail, sharp teeth, green eyes, wings, wings, claws, wyvern, scales
+unown a, pokemon, no humans, black eyes, blue eyes, brown hair, short hair, medium breasts, pokemon \(creature\)
+galarian moltres, pokemon, no humans, tongue, blue eyes, white pupils, pokemon \(creature\), bird, talons, beak
+mega mawile, pokemon, no humans, extra mouth, sharp teeth, red eyes, black hair, mega pokemon, pokemon \(creature\)
+necrozma, pokemon, no humans, blue eyes, multicolored eyes, pokemon \(creature\), claws
+nergigante, monster hunter \(series\), no humans, 1girl, monster girl, monster, sharp teeth, dragon horns, dragon tail, spiked tail, yellow eyes, slit pupils, long hair, large breasts, spiked wings, dragon wings, wings, claws, scales, dragon girl, spikes
+unicorn gundam banshee, gundam, no humans, red eyes, glowing eyes, mobile suit, mobile suit, v-fin, mecha musume, nt-d, mecha
+thundercracker, transformers, no humans, red eyes, decepticon, mecha
+mamoswine, pokemon, no humans, black eyes, pokemon \(creature\), tusks, brown fur
+echoes \(stand\), jojo no kimyou na bouken, no humans, 1boy, tail, blue eyes, blonde hair, gakuran, gakuran
+gholdengo, pokemon, no humans, skin fang, yellow eyes, black belt, belt buckle, pokemon \(creature\), coin
+alphamon, digimon, no humans, horns, yellow eyes, red eyes, black armor, shoulder armor, helmet, digimon \(creature\), forehead jewel, knight, mecha
+penelope \(hathaway's flash\), gundam, no humans, holding gun, glowing eyes, red eyes, pink eyes, mobile suit, mobile suit, v-fin, beam rifle, mecha
+maractus, pokemon, no humans, green skin, single horn, yellow eyes, pokemon \(creature\), yellow sclera, spikes
+gaogaigar, yuusha series, no humans, orange eyes, v-fin, super robot, drill
+kingler, pokemon, no humans, pokemon \(creature\), crab
+floatzel, pokemon, no humans, fang, two tails, black eyes, brown eyes, pokemon \(creature\)
+impmon, digimon, no humans, demon, purple skin, white skin, multicolored skin, tail, green eyes, red gloves, fewer digits, digimon \(creature\), bandana around neck, red bandana
+metal man, mega man \(classic\), no humans, 1boy, red eyes, armor, helmet, android, circular saw, saw, robot
+kshatriya, gundam, no humans, 1girl, long hair, mecha musume, mecha
+gunbuster, top wo nerae!, no humans, purple eyes, brown eyes, brown hair, one-eyed, super robot
+strike freedom gundam, gundam, no humans, yellow eyes, mobile suit, v-fin, mechanical wings, mechanical wings, mecha musume, mecha
+skywarp, transformers, no humans, red eyes, decepticon, mecha
+keldeo, pokemon, no humans, single horn, blue eyes, red hair, pokemon \(creature\)
+florges, pokemon, no humans, 1girl, white skin, blue eyes, white hair, pokemon \(creature\)
+vf-1a, macross, no humans, pilot suit, energy cannon, u.n. spacy, pilot, mecha, u.n. spacy, roundel, jolly roger
+wishiwashi \(school\), pokemon, no humans, blue eyes, hair between eyes, blue hair, short hair, pokemon \(creature\), fish
+dhelmise, pokemon, no humans, red eyes, green hair, pokemon \(creature\), anchor, ship's wheel
+purugly, pokemon, no humans, fangs, yellow eyes, purple hair, pokemon \(creature\), cat, whiskers
+chef kawasaki, kirby \(series\), no humans, red eyes, long hair, pink hair, brown hair, large breasts, cleavage, ass, sweat, collarbone, chef hat, bare shoulders
+basculegion, pokemon, no humans, fangs, sharp teeth, tongue, red eyes, pink eyes, pokemon \(creature\), fish
+imperialdramon, digimon, no humans, tail, horns, sharp teeth, red eyes, armor, armor, wings, red wings, wings, red wings, cannon, digimon \(creature\), claws
+guntank, gundam, no humans, mobile suit, shoulder cannon, mecha
+shiftry, pokemon, no humans, yellow eyes, white hair, pokemon \(creature\)
+ratchet \(transformers\), transformers, no humans, 1boy, blue eyes, autobot, mecha, machinery, machine, insignia
+garbodor, pokemon, no humans, 1girl, sharp teeth, blue eyes, long hair, pokemon \(creature\)
+archen, pokemon, no humans, fangs, black eyes, pokemon \(creature\), bird, claws
+morpho knight, kirby \(series\), no humans, horns, mask, helmet, insect wings, butterfly wings, insect wings, butterfly wings, butterfly
+pangoro, pokemon, no humans, black eyes, white hair, pokemon \(creature\)
+mega gengar, pokemon, no humans, teeth, red eyes, third eye, purple hair, mega pokemon, pokemon \(creature\), ghost
+hisuian braviary, pokemon, no humans, blue eyes, pokemon \(creature\), bird, talons
+claydol, pokemon, no humans, red eyes, pokemon \(creature\)
+orbeetle, pokemon, no humans, blue eyes, aqua eyes, green eyes, pokemon \(creature\), gigantamax, claws
+mega banette, pokemon, no humans, pink eyes, mega pokemon, pokemon \(creature\), zipper, zipper pull tab
+vespiquen, pokemon, no humans, red eyes, pokemon \(creature\)
+crustle, pokemon, no humans, brown eyes, pokemon \(creature\)
+trevenant, pokemon, no humans, red eyes, pokemon \(creature\), one-eyed
+mizutsune, monster hunter \(series\), no humans, monster, tail, sharp teeth, horns, blue eyes, claws, head fins, scales, dragon
+slowking, pokemon, no humans, fangs, black eyes, pokemon \(creature\)
+honedge, pokemon, no humans, blue eyes, long hair, sword, pokemon \(creature\)
+zero \(kirby\), kirby \(series\), no humans, red eyes, extra eyes, white hair, large breasts, one-eyed
+oricorio \(sensu\), pokemon, no humans, black eyes, pokemon \(creature\), bird
+big o \(mecha\), the big o, no humans, short hair, mecha
+mega charizard y, pokemon, no humans, flame-tipped tail, blue eyes, long hair, mega pokemon, pokemon \(creature\), claws, dragon
+ifrit \(final fantasy\), final fantasy, no humans, monster, horns, sharp teeth, beard stubble, fangs, blue eyes, glowing eyes, yellow eyes, black hair, claws, stubble
+blitzcrank, league of legends, no humans, 1girl, long hair
+meltan, pokemon, no humans, pokemon \(creature\), one-eyed
+type 94 shiranui, muv-luv, no humans, pilot suit, fortified suit, tactical surface fighter
+air man, mega man \(classic\), no humans, red eyes, arm cannon
+ground gundam, gundam, no humans, green eyes, mobile suit, v-fin, mecha
+wyrdeer, pokemon, no humans, horns, black eyes, grey eyes, white pupils, antlers, pokemon \(creature\), white fur, grey fur
+genesect, pokemon, no humans, red eyes, pokemon \(creature\), claws
+furfrou \(natural\), pokemon, no humans, red eyes, brown eyes, pokemon \(creature\), dog
+usapyon, youkai watch, no humans, rabbit ears, long hair, blue hair, helmet, youkai \(youkai watch\), spacesuit, spacesuit, star \(symbol\)
+temmie, undertale, no humans, 1girl, cat ears, tail, extra ears, black eyes, v-shaped eyebrows, grey hair, long hair, short hair, ahoge, striped clothes, striped shirt, white fur
+turtonator, pokemon, no humans, short hair, pokemon \(creature\), turtle shell
+galarian zapdos, pokemon, no humans, yellow eyes, pokemon \(creature\), bird, talons, beak
+gundam gp-02 physalis, gundam, no humans, green eyes, red eyes, long hair, mobile suit, mobile suit, v-fin, mecha musume, mecha
+ultra magnus, transformers, no humans, 1boy, blue eyes, autobot, mecha
+virizion, pokemon, no humans, red eyes, pokemon \(creature\)
+blacephalon, pokemon, no humans, pokemon \(creature\)
+nickit, pokemon, no humans, yellow eyes, pokemon \(creature\), fox, whisker markings
+druddigon, pokemon, no humans, yellow eyes, claws, pokemon \(creature\), dragon
+chesnaught, pokemon, no humans, pokemon \(creature\), claws, spikes
+acguy, gundam, no humans, 1girl, blue eyes, mecha
+stitch \(lilo & stitch\), lilo & stitch, no humans, notched ear, black hair, short hair, blue fur, body fur, abs
+sinanju, gundam, no humans, green eyes, glowing eye, shield, mecha
+jazz \(transformers\), transformers, no humans, 1boy, blue eyes, autobot, mecha
+gastrodon \(east\), pokemon, no humans, black eyes, white pupils, pokemon \(creature\), slug
+glimmora, pokemon, no humans, yellow eyes, glowing eyes, pokemon \(creature\)
+gigantamax charizard, pokemon, no humans, flame-tipped tail, sharp teeth, yellow eyes, gigantamax, pokemon \(creature\), claws, dragon, yellow sclera
+ex-s gundam, gundam, no humans, holding gun, green eyes, mobile suit, mobile suit, v-fin, beam rifle, mecha musume, mecha
+z'gok, gundam, no humans, mobile suit, claws, one-eyed, zeon, mecha
+heatran, pokemon, no humans, orange eyes, pokemon \(creature\)
+ledian, pokemon, no humans, blue eyes, pokemon \(creature\), antennae, bug
+magcargo, pokemon, no humans, yellow eyes, pokemon \(creature\), snail
+jehuty, zone of the enders, no humans, mecha
+jetfire, transformers, no humans, blue eyes, autobot, mecha
+metabee, medarot, no humans, green eyes, glowing eyes, humanoid robot, mecha
+hygogg, gundam, no humans, 1girl, long hair, blonde hair, aqua hair, gradient hair, wavy hair, mecha musume, mecha
+futatsuiwa mamizou \(tanuki\), touhou, no humans, 1girl, raccoon tail, glasses, brown hair, short hair, tanuki, cat, leaf on head
+mospeada \(mecha\), kikou souseiki mospeada, no humans, power armor, armor, body armor, power armor, armor, helmet, body armor, gloves, exoskeleton, spacesuit, mecha, machinery
+fuyunyan, youkai watch, no humans, fangs, scar, red cape, cat, traditional youkai
+hisuian samurott, pokemon, no humans, fangs, beard, mustache, red eyes, white hair, pokemon \(creature\), claws
+grendizer, mazinger \(series\), no humans, horns, yellow eyes, blue eyes, long hair, brown hair, super robot
+sleep kirby, kirby \(series\), no humans, drooling, pink skin, blue eyes, pom pom \(clothes\), star \(symbol\), nightcap, pillow
+primal kyogre, pokemon, no humans, orange eyes, pokemon \(creature\)
+traveler \(journey\), journey, no humans, scarf, robe, hood
+jegan, gundam, no humans, mobile suit, mobile suit, mecha
+hollow knight \(character\), hollow knight, no humans, 1other, black skin, horns, cloak, sword, joints
+impidimp, pokemon, no humans, two-tone skin, fangs, black eyes, pokemon \(creature\)
+genesic gaogaigar, yuusha series, no humans, orange eyes, orange hair, long hair, v-fin, super robot, drill
+alteisen, super robot wars, no humans, single horn, green eyes, mecha
+lancelot \(code geass\), code geass, no humans, green eyes
+magnamon, digimon, no humans, blue skin, tail, horns, red eyes, gold armor, armor, gold armor, armor, fewer digits, digimon \(creature\), dragon, claws
+fiddlesticks, league of legends, no humans, monster, sharp teeth, red eyes, glowing eyes, scarecrow
+osiris the sky dragon, yu-gi-oh!, no humans, sharp teeth, extra mouth, yellow eyes, glowing eyes, black hair, wings, duel monster, claws, dragon
+vf-1 super, macross, no humans, u.n. spacy, mecha, u.n. spacy, thrusters, roundel
+metalgarurumon, digimon, no humans, sharp teeth, horns, fangs, red eyes, glowing eyes, armor, armor, mechanical wings, digimon \(creature\), claws, wolf, cyborg, spikes, mecha
+magearna \(normal\), pokemon, no humans, pink eyes, pokemon \(creature\), rabbit
+chien-pao, pokemon, no humans, blue eyes, white pupils, pokemon \(creature\), tusks, whiskers, white fur, claws, blue sclera, ice
+yf-19, macross, no humans, u.n. spacy, mecha
+turn x, gundam, no humans, yellow eyes, mobile suit, mecha
+tyrantrum, pokemon, no humans, sharp teeth, pokemon \(creature\), dinosaur, claws, black sclera, dragon
+mega altaria, pokemon, no humans, ahoge, mega pokemon, fluffy, pokemon \(creature\), bird, beak, blue feathers, white feathers
+galarian articuno, pokemon, no humans, blue eyes, glowing eyes, pokemon \(creature\), bird, talons, beak
+blue \(among us\), among us, no humans, 1girl, long hair, long sleeves, virtual youtuber
+v2 gundam, gundam, no humans, green eyes, mobile suit, mobile suit, v-fin, mecha
+nirvash, eureka seven \(series\), no humans, aqua hair, mecha
+gelgoog, gundam, no humans, holding gun, glowing eye, mobile suit, mobile suit, one-eyed, zeon, mecha, zeon
+orange \(among us\), among us, no humans, 1girl, red eyes, black hair, long hair, spacesuit
+eternatus, pokemon, no humans, glowing eyes, pokemon \(creature\)
+ideon, densetsu kyojin ideon, no humans, visor, super robot
+chibiterasu, ookami \(game\), no humans, wolf, animal, puppy
+poltchageist, pokemon, no humans, yellow eyes, black hair, pokemon \(creature\)
+mega ampharos, pokemon, no humans, horns, black eyes, white hair, mega pokemon, pokemon \(creature\)
+vikavolt, pokemon, no humans, yellow eyes, insect wings, insect wings, pokemon \(creature\), bug
+dragalge, pokemon, no humans, red eyes, pokemon \(creature\)
+charjabug, pokemon, no humans, blue eyes, pokemon \(creature\)
+mechagodzilla, godzilla \(series\), no humans, sharp teeth, mechanical tail, tail, yellow eyes, glowing eyes, claws, mecha
+v gundam, gundam, no humans, green eyes, mobile suit, mobile suit, v-fin, mecha
+kyoshinhei, kaze no tani no nausicaa, no humans, giant, monster, sharp teeth, green eyes, glowing eyes, brown hair, alien
+primal groudon, pokemon, no humans, sharp teeth, red eyes, red hair, pokemon \(creature\), claws, spikes
+gigalith, pokemon, no humans, red eyes, black hair, short hair, pokemon \(creature\)
+tarountula, pokemon, no humans, green eyes, brown eyes, green hair, mole on cheek, brown apron, pokemon \(creature\), chef, ascot, brown ascot
+thundurus, pokemon, no humans, single horn, yellow eyes, pokemon \(creature\), claws
+mugendramon, digimon, no humans, sharp teeth, horns, red eyes, glowing eyes, digimon \(creature\), claws, mecha, non-humanoid robot, cable
+walking wake, pokemon, no humans, red eyes, yellow eyes, purple hair, pokemon \(creature\), claws, yellow sclera
+00 raiser, gundam, no humans, green eyes, mobile suit, mobile suit, v-fin, mecha musume, mecha
+ironhide, transformers, no humans, 1boy, blue eyes, autobot, mecha, machinery, insignia
+malamar, pokemon, no humans, yellow eyes, long hair, sweat, pokemon \(creature\)
+oricorio \(baile\), pokemon, no humans, black eyes, bird, pokemon \(creature\)
+zygarde \(50%\), pokemon, no humans, green eyes, black hair, green hair, chinese clothes, pokemon \(creature\), scales
+gundam gp-03 stamen, gundam, no humans, green eyes, mobile suit, mobile suit, v-fin, mecha
+gundam x, gundam, no humans, green eyes, v-fin, mecha
+deoxys \(attack\), pokemon, no humans, pokemon \(creature\)
+kommo-o, pokemon, no humans, grey skin, skin fangs, grey eyes, long hair, pokemon \(creature\), dragon, claws, scales, yellow scales
+araquanid, pokemon, no humans, blue eyes, pokemon \(creature\), bug
+kartana, pokemon, no humans, pokemon \(creature\)
+gundam barbatos lupus rex, gundam, no humans, glowing eyes, red eyes, green eyes, glowing eye, mobile suit, mobile suit, v-fin, claws, mecha
+tekkaman blade \(character\), tekkaman blade, no humans, green eyes, power armor, armor, power suit, power armor, armor, power suit, mecha
+shining gundam, gundam, no humans, green eyes, glowing eyes, v-fin, mecha
+crossbone gundam x-1, gundam, no humans, green eyes, mobile suit, mobile suit, v-fin, mecha, skull and crossbones
+prowl \(transformers\), transformers, no humans, 1boy, blue eyes, glowing eyes, v-fin, autobot, mecha, insignia
+lagiacrus, monster hunter \(series\), no humans, monster, horns, sharp teeth, tail, red eyes, claws, scales, dragon
+white glint, armored core, no humans, holding gun, single horn, blue eyes, white hair, mecha musume, mecha
+ball \(gundam\), gundam, no humans, mecha
+mazinkaiser \(robot\), mazinger \(series\), no humans, horns, yellow eyes, glowing eyes, mechanical wings, super robot
+drampa, pokemon, no humans, pink eyes, pokemon \(creature\), dragon
+tapu fini, pokemon, no humans, black skin, blue eyes, long hair, pokemon \(creature\)
+nekomata okayu \(cat\), hololive, no humans, 1girl, dog girl, dog ears, cat ears, dog tail, animal ear fluff, hair between eyes, long hair, brown hair, ahoge, medium breasts, black hoodie, virtual youtuber, virtual youtuber, cat, animal
+tengen toppa gurren-lagann \(mecha\), tengen toppa gurren lagann, no humans, yellow eyes, super robot, drill
+fatalis, monster hunter \(series\), no humans, 1girl, monster, monster girl, dragon horns, dragon tail, horns, sharp teeth, long hair, dragon wings, wings, dragon wings, claws, western dragon, scales, dragon girl
+gouf custom, gundam, no humans, single horn, red eyes, glowing eye, mobile suit, mobile suit, shoulder spikes, one-eyed, zeon, mecha, zeon
+wing gundam, gundam, no humans, holding gun, green eyes, mobile suit, mobile suit, v-fin, mechanical wings, beam rifle, mecha
+dynazenon \(character\), gridman universe, no humans, blue eyes, glowing eyes, green eyes, super robot
+rodan, godzilla \(series\), no humans, 1girl, monster, tail, horns, red eyes, red hair, wings, wings
+farigiraf, pokemon, no humans, black eyes, white pupils, pokemon \(creature\)
+grubbin, pokemon, no humans, white pupils, pokemon \(creature\), bug
+zamazenta \(crowned\), pokemon, no humans, sharp teeth, yellow eyes, red eyes, pokemon \(creature\), dog
+mafiaduck \(nilan\), original, no humans, black necktie, detached collar, animal, duck
+pokemon tower ghost, pokemon, no humans, ghost, pokemon \(creature\)
+chamber \(suisei no gargantia\), suisei no gargantia, no humans, green eyes, glowing eyes, mecha
+master gundam, gundam, no humans, green eyes, v-fin
+nobel gundam, gundam, no humans, green eyes, blonde hair, long hair, mecha
+combattler v \(robot\), choudenji robo combattler v, no humans, glowing eyes, yellow eyes, super robot
+baxcalibur, pokemon, no humans, blue skin, skin fangs, long tail, yellow eyes, black eyes, hair between eyes, black hair, low-tied long hair, very long hair, ponytail, high ponytail, sidelocks, large breasts, collarbone, pokemon \(creature\), claws, dragon, spines, fluffy, moth
+optimus primal, transformers, no humans, 1boy, red eyes, gorilla, hands, mecha
+rick dias, gundam, no humans, holding gun, green eyes, mobile suit, mobile suit, one-eyed, mecha
+eva 08, neon genesis evangelion, no humans, 1girl, extra eyes, green eyes, blue eyes, glowing eyes, glasses, red-framed eyewear, brown hair, long hair, medium breasts, plugsuit, plugsuit, pilot suit, pilot suit, evangelion \(mecha\), mecha, interface headset
+pyroar, pokemon, no humans, fangs, green eyes, blue eyes, pokemon \(creature\)
+nautica \(transformers\), transformers, no humans, 1girl, purple lips, blue eyes, medium breasts, helmet, robot girl, autobot, mecha, humanoid robot
+apple bloom, my little pony, no humans, 1girl, yellow skin, horse tail, green eyes, orange eyes, mismatched eyebrows, red hair, long hair, pink hair, sidelocks, hair bow, medium breasts, bare shoulders, pony \(animal\), yellow fur, nose, blunt ends
+kyuubi \(youkai watch\), youkai watch, no humans, fox tail, fox ears, yellow eyes, green eyes, long fingernails, youkai \(youkai watch\), kyuubi, traditional youkai, claws, green sclera, body fur, snout
+naganadel, pokemon, no humans, horns, blue eyes, glowing eyes, bat wings, pokemon \(creature\), claws, dragon
+gundam double x, gundam, no humans, blue eyes, green eyes, glowing eyes, mobile suit, mobile suit, v-fin, mechanical wings, mecha
+regieleki, pokemon, no humans, pink eyes, pokemon \(creature\)
+asshimar, gundam, no humans, mobile suit, one-eyed, mecha musume, mecha
+fladramon, digimon, no humans, blue skin, white skin, two-tone skin, single horn, tail, red eyes, armor, armor, helmet, digimon \(creature\), claws
+black getter, getter robo, no humans, yellow eyes, glowing eyes, cape, super robot, arm blade
+grogu, star wars, no humans, green skin, pointy ears, black eyes, alien
+thomas the tank engine \(character\), thomas the tank engine, no humans
+gyan, gundam, no humans, glowing eye, mobile suit, mobile suit, one-eyed, zeon, mecha, zeon
+gundam ez8, gundam, no humans, holding gun, red eyes, glowing eyes, mobile suit, mobile suit, shield, mecha, radio antenna
+zaku ii fz kai, gundam, no humans, red eyes, glowing eye, mobile suit, shoulder spikes, zeon, one-eyed, mecha, zeon
+bt-7274, titanfall \(series\), no humans, blue eyes, glowing eye, one-eyed, mecha, machinery
+toxapex, pokemon, no humans, blue eyes, yellow eyes, long hair, pokemon \(creature\), yellow sclera, spikes
+alcremie \(berry sweet\), pokemon, no humans, blue eyes, pokemon \(creature\)
+knight blazer, wild arms, no humans, 1boy, armor, full armor, helmet, mask, gloves, scarf, cape, black armor, armor, knight, knight
+drift \(transformers\), transformers, no humans, 1boy, blue eyes, glowing eyes, autobot, mecha, insignia, machinery
+obelisk the tormentor, yu-gi-oh!, no humans, monster, horns, teeth, red eyes, glowing eyes, black hair, duel monster
+w.d. gaster, undertale, no humans, 1boy, uneven eyes, ribbed sweater, turtleneck, skeleton
+runerigus, pokemon, no humans, purple eyes, pokemon \(creature\)

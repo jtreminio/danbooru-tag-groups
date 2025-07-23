@@ -1,71 +1,77 @@
 import json
 import re
-from pathlib import Path
 import argparse
+from pathlib import Path
 
-def sanitize_name(name):
-    """Convert name to snake_case and remove invalid Windows characters."""
+def sanitize_filename(name):
     name = name.strip().lower()
     name = re.sub(r'[^\w\s-]', '', name)
     name = re.sub(r'\s+', '_', name)
     return name
 
-def is_flat_string_dict(d):
-    """Check if all values (excluding optional 'self') are strings."""
-    if not isinstance(d, dict):
-        return False
-    return all(isinstance(v, str) for k, v in d.items() if k != 'self')
+def load_ref_file(path):
+    with open(path, "r", encoding="utf-8") as f:
+        return [line.strip() for line in f if line.strip()]
 
-def write_tags_from_json(data, base_path, parent_key=None):
-    for key, value in data.items():
-        # Special case: skip creating "self" subdir
-        if key == "self":
-            if isinstance(value, dict):
-                write_tags_from_json(value, base_path, parent_key)
-            elif isinstance(value, str):
-                base_path.mkdir(parents=True, exist_ok=True)
-                filename = base_path / f"{sanitize_name(parent_key)}.txt"
-                with open(filename, "a", encoding="utf-8") as f:
-                    f.write(value.replace("\\", "") + "\n")
-            continue
-
-        filename_base = sanitize_name(key)
-        current_path = base_path
-
-        if isinstance(value, dict):
-            if is_flat_string_dict(value):
-                current_path.mkdir(parents=True, exist_ok=True)
-                out_file = current_path / f"{filename_base}.txt"
-                with open(out_file, "a", encoding="utf-8") as f:
-                    for v in value.values():
-                        if isinstance(v, str):
-                            escaped = v.replace("\\", "") \
-                                .replace("(", r"\(") \
-                                .replace(")", r"\)")
-                            f.write(escaped + "\n")
+def resolve_refs(data, base_path="."):
+    if isinstance(data, dict):
+        for k, v in data.items():
+            data[k] = resolve_refs(v, base_path)
+        return data
+    elif isinstance(data, list):
+        result = []
+        for item in data:
+            if isinstance(item, str) and item.strip().startswith("$ref:"):
+                ref_path = item.strip()[5:].strip()
+                ref_file = Path(base_path) / ref_path
+                if ref_file.exists():
+                    result.extend(load_ref_file(ref_file))
+                else:
+                    print(f"Warning: {ref_file} not found")
             else:
-                write_tags_from_json(value, current_path / filename_base, key)
+                result.append(item)
+        return list(dict.fromkeys(result))  # dedup
+    else:
+        return data
 
-        elif isinstance(value, str):
-            current_path.mkdir(parents=True, exist_ok=True)
-            out_file = current_path / f"{sanitize_name(parent_key)}.txt"
-            with open(out_file, "a", encoding="utf-8") as f:
-                f.write(value.replace("\\", "") + "\n")
+def write_list_to_file(base_path: Path, filename: str, data: list[str]):
+    base_path.mkdir(parents=True, exist_ok=True)
+    file_path = base_path / f"{sanitize_filename(filename)}.txt"
+    with file_path.open("w", encoding="utf-8") as f:
+        for item in data:
+            item = item.replace("\\", "")
+            item = re.sub(r"([()])", r"\\\1", item)
+            f.write(item + "\n")
+
+def recurse(obj, path):
+    if isinstance(obj, dict):
+        for key, value in obj.items():
+            key_clean = sanitize_filename(key)
+
+            if isinstance(value, list):
+                write_list_to_file(path, key_clean, value)
+
+            elif isinstance(value, dict):
+                if "_data" in value and isinstance(value["_data"], list):
+                    write_list_to_file(path / key_clean, key_clean, value["_data"])
+
+                    for sub_key, sub_value in value.items():
+                        if sub_key != "_data":
+                            recurse({sub_key: sub_value}, path / key_clean)
+                else:
+                    recurse(value, path / key_clean)
 
 def main():
-    parser = argparse.ArgumentParser(description="Convert nested JSON into text files in snake_case directories.")
-    parser.add_argument("--input", required=True, help="Path to input JSON file")
-    parser.add_argument("--output", required=True, help="Output base directory")
+    parser = argparse.ArgumentParser(description="Flatten structured JSON into directory tree of .txt files.")
+    parser.add_argument("--input", required=True, help="Input JSON file")
+    parser.add_argument("--output", required=True, help="Output directory")
     args = parser.parse_args()
 
-    input_json = Path(args.input)
-    output_dir = Path(args.output)
-    output_dir.mkdir(parents=True, exist_ok=True)
-
-    with open(input_json, 'r', encoding='utf-8') as f:
+    with open(args.input, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-    write_tags_from_json(data, output_dir)
+    resolved = resolve_refs(data)
+    recurse(resolved, Path(args.output))
 
 if __name__ == "__main__":
     main()
